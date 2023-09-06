@@ -1,0 +1,1194 @@
+WARNING:tensorflow:From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/compat/v2_compat.py:107: disable_resource_variables (from tensorflow.python.ops.variable_scope) is deprecated and will be removed in a future version.
+Instructions for updating:
+non-resource variables are not supported in the long term
+[2023-09-01 22:07:18,678] Making new env: CartPole-v0
+/Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/gym/envs/registration.py:17: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+WARNING:tensorflow:From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/compat/v2_compat.py:107: disable_resource_variables (from tensorflow.python.ops.variable_scope) is deprecated and will be removed in a future version.
+Instructions for updating:
+non-resource variables are not supported in the long term
+WARNING:tensorflow:From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/compat/v2_compat.py:107: disable_resource_variables (from tensorflow.python.ops.variable_scope) is deprecated and will be removed in a future version.
+Instructions for updating:
+non-resource variables are not supported in the long term
+WARNING:tensorflow:From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/compat/v2_compat.py:107: disable_resource_variables (from tensorflow.python.ops.variable_scope) is deprecated and will be removed in a future version.
+Instructions for updating:
+non-resource variables are not supported in the long term
+WARNING:tensorflow:From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/compat/v2_compat.py:107: disable_resource_variables (from tensorflow.python.ops.variable_scope) is deprecated and will be removed in a future version.
+Instructions for updating:
+non-resource variables are not supported in the long term
+WARNING:tensorflow:From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/compat/v2_compat.py:107: disable_resource_variables (from tensorflow.python.ops.variable_scope) is deprecated and will be removed in a future version.
+Instructions for updating:
+non-resource variables are not supported in the long term
+WARNING:tensorflow:From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/compat/v2_compat.py:107: disable_resource_variables (from tensorflow.python.ops.variable_scope) is deprecated and will be removed in a future version.
+Instructions for updating:
+non-resource variables are not supported in the long term
+[2023-09-01 22:07:25,960] Making new env: CartPole-v0
+/Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/gym/envs/registration.py:17: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+[2023-09-01 22:07:25,961] Making new env: CartPole-v0
+/Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/gym/envs/registration.py:17: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+[2023-09-01 22:07:25,961] Making new env: CartPole-v0
+/Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/gym/envs/registration.py:17: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+[2023-09-01 22:07:25,963] Making new env: CartPole-v0
+[2023-09-01 22:07:25,963] Making new env: CartPole-v0
+/Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/gym/envs/registration.py:17: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+/Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/gym/envs/registration.py:17: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+[2023-09-01 22:07:25,967] Making new env: CartPole-v0
+/Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/gym/envs/registration.py:17: PkgResourcesDeprecationWarning: Parameters to load are deprecated.  Call .resolve and .require separately.
+  result = entry_point.load(False)
+E0901 22:07:25.994816000 8381324096 server_chttp2.cc:40]               {"created":"@1693577245.994045000","description":"No address added out of total 1 resolved","file":"external/com_github_grpc_grpc/src/core/ext/transport/chttp2/server/chttp2_server.cc","file_line":395,"referenced_errors":[{"created":"@1693577245.994042000","description":"Failed to add any wildcard listeners","file":"external/com_github_grpc_grpc/src/core/lib/iomgr/tcp_server_posix.cc","file_line":342,"referenced_errors":[{"created":"@1693577245.994003000","description":"Unable to configure socket","fd":17,"file":"external/com_github_grpc_grpc/src/core/lib/iomgr/tcp_server_utils_posix_common.cc","file_line":216,"referenced_errors":[{"created":"@1693577245.993687000","description":"Address already in use","errno":48,"file":"external/com_github_grpc_grpc/src/core/lib/iomgr/tcp_server_utils_posix_common.cc","file_line":189,"os_error":"Address already in use","syscall":"bind"}]},{"created":"@1693577245.994042000","description":"Unable to configure socket","fd":17,"file":"external/com_github_grpc_grpc/src/core/lib/iomgr/tcp_server_utils_posix_common.cc","file_line":216,"referenced_errors":[{"created":"@1693577245.994036000","description":"Address already in use","errno":48,"file":"external/com_github_grpc_grpc/src/core/lib/iomgr/tcp_server_utils_posix_common.cc","file_line":189,"os_error":"Address already in use","syscall":"bind"}]}]}]}
+E0901 22:07:25.994943000 8381324096 server_chttp2.cc:40]               {"created":"@1693577245.994299000","description":"No address added out of total 1 resolved","file":"external/com_github_grpc_grpc/src/core/ext/transport/chttp2/server/chttp2_server.cc","file_line":395,"referenced_errors":[{"created":"@1693577245.994297000","description":"Failed to add any wildcard listeners","file":"external/com_github_grpc_grpc/src/core/lib/iomgr/tcp_server_posix.cc","file_line":342,"referenced_errors":[{"created":"@1693577245.994230000","description":"Unable to configure socket","fd":17,"file":"external/com_github_grpc_grpc/src2023-09-01 22:07:25.996523: I tensorflow/core/distributed_runtime/rpc/grpc_server_lib.cc:449] Started server with target: grpc://localhost:2225
+2023-09-01 22:07:25.998947: I tensorflow/core/distributed_runtime/rpc/grpc_server_lib.cc:449] Started server with target: grpc://localhost:2224
+/core/lib/iomgr/tcp_server_utils_posix_common.cc","file_line":216,"referenced_errors":[{"created":"@1693577245.993697000","description":"Address already in use","errno":48,"file":"external/com_github_grpc_grpc/src/core/lib/iomgr/tcp_server_utils_posix_common.cc","file_line":189,"os_error":"Address already in use","syscall":"bind"}]},{"created":"@1693577245.994296000","description":"Unable to config2023-09-01 22:07:25.996347: I tensorflow/core/distributed_runtime/rpc/grpc_server_lib.cc:449] Started server with target: grpc://localhost:2223
+2023-09-01 22:07:25.998669: E tensorflow/core/distributed_runtime/rpc/grpc_server_lib.cc:600] UNKNOWN: Could not start gRPC server
+ure socket","fd":17,"file":"external/com_github_grpc_grpc/src/core/lib/iomgr/tcp_server_utils_posix_common.cc","file_line":216,"referenced_errors":[{"created":"@1693577245.994284000","description":"Address already in use","errno":48,"file":"external/com_github_grpc_grpc/src/core/lib/iomgr/tcp_server_utils_posix_common.cc","file_line":189,"os_error":"Address already in use","syscall":"bind"}]}]}]}
+[2023-09-01 22:07:25,999] Making new env: CartPole-v0
+[2023-09-01 22:07:25,998] Making new env: CartPole-v0
+[2023-09-01 22:07:25,999] Making new env: CartPole-v0
+2023-09-01 22:07:26.001973: E tensorflow/core/distributed_runtime/rpc/grpc_server_lib.cc:600] UNKNOWN: Could not start gRPC server
+Start Worker:  1
+Start Worker:  2
+2023-09-01 22:07:26.006084: I tensorflow/core/distributed_runtime/rpc/grpc_server_lib.cc:449] Started server with target: grpc://localhost:2222
+[2023-09-01 22:07:26,006] Making new env: CartPole-v0
+Process Process-1:
+Start Worker:  3
+Process Process-2:
+Start Worker:  0
+Traceback (most recent call last):
+  File "/Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/multiprocessing/process.py", line 314, in _bootstrap
+    self.run()
+  File "/Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/jiyishen/Desktop/RL/Reinforcement-learning-with-tensorflow-master 2/contents/10_A3C/A3C_distributed_tf.py", line 103, in work
+    server = tf.train.Server(cluster, job_name=job_name, task_index=task_index)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/training/server_lib.py", line 144, in __init__
+    self._server = c_api.TF_NewServer(self._server_def.SerializeToString())
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+tensorflow.python.framework.errors_impl.UnknownError: Could not start gRPC server
+  File "/Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/multiprocessing/process.py", line 314, in _bootstrap
+    self.run()
+  File "/Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/jiyishen/Desktop/RL/Reinforcement-learning-with-tensorflow-master 2/contents/10_A3C/A3C_distributed_tf.py", line 103, in work
+    server = tf.train.Server(cluster, job_name=job_name, task_index=task_index)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/training/server_lib.py", line 144, in __init__
+    self._server = c_api.TF_NewServer(self._server_def.SerializeToString())
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tensorflow.python.framework.errors_impl.UnknownError: Could not start gRPC server
+/Users/jiyishen/Desktop/RL/Reinforcement-learning-with-tensorflow-master 2/contents/10_A3C/A3C_distributed_tf.py:75: UserWarning: `tf.layers.dense` is deprecated and will be removed in a future version. Please use `tf.keras.layers.Dense` instead.
+  l_a = tf.layers.dense(self.s, 200, tf.nn.relu6, kernel_initializer=w_init, name='la')
+/Users/jiyishen/Desktop/RL/Reinforcement-learning-with-tensorflow-master 2/contents/10_A3C/A3C_distributed_tf.py:75: UserWarning: `tf.layers.dense` is deprecated and will be removed in a future version. Please use `tf.keras.layers.Dense` instead.
+  l_a = tf.layers.dense(self.s, 200, tf.nn.relu6, kernel_initializer=w_init, name='la')
+/Users/jiyishen/Desktop/RL/Reinforcement-learning-with-tensorflow-master 2/contents/10_A3C/A3C_distributed_tf.py:75: UserWarning: `tf.layers.dense` is deprecated and will be removed in a future version. Please use `tf.keras.layers.Dense` instead.
+  l_a = tf.layers.dense(self.s, 200, tf.nn.relu6, kernel_initializer=w_init, name='la')
+/Users/jiyishen/Desktop/RL/Reinforcement-learning-with-tensorflow-master 2/contents/10_A3C/A3C_distributed_tf.py:75: UserWarning: `tf.layers.dense` is deprecated and will be removed in a future version. Please use `tf.keras.layers.Dense` instead.
+  l_a = tf.layers.dense(self.s, 200, tf.nn.relu6, kernel_initializer=w_init, name='la')
+/Users/jiyishen/Desktop/RL/Reinforcement-learning-with-tensorflow-master 2/contents/10_A3C/A3C_distributed_tf.py:76: UserWarning: `tf.layers.dense` is deprecated and will be removed in a future version. Please use `tf.keras.layers.Dense` instead.
+  a_prob = tf.layers.dense(l_a, N_A, tf.nn.softmax, kernel_initializer=w_init, name='ap')
+/Users/jiyishen/Desktop/RL/Reinforcement-learning-with-tensorflow-master 2/contents/10_A3C/A3C_distributed_tf.py:76: UserWarning: `tf.layers.dense` is deprecated and will be removed in a future version. Please use `tf.keras.layers.Dense` instead.
+  a_prob = tf.layers.dense(l_a, N_A, tf.nn.softmax, kernel_initializer=w_init, name='ap')
+/Users/jiyishen/Desktop/RL/Reinforcement-learning-with-tensorflow-master 2/contents/10_A3C/A3C_distributed_tf.py:76: UserWarning: `tf.layers.dense` is deprecated and will be removed in a future version. Please use `tf.keras.layers.Dense` instead.
+  a_prob = tf.layers.dense(l_a, N_A, tf.nn.softmax, kernel_initializer=w_init, name='ap')
+/Users/jiyishen/Desktop/RL/Reinforcement-learning-with-tensorflow-master 2/contents/10_A3C/A3C_distributed_tf.py:78: UserWarning: `tf.layers.dense` is deprecated and will be removed in a future version. Please use `tf.keras.layers.Dense` instead.
+  l_c = tf.layers.dense(self.s, 100, tf.nn.relu6, kernel_initializer=w_init, name='lc')
+/Users/jiyishen/Desktop/RL/Reinforcement-learning-with-tensorflow-master 2/contents/10_A3C/A3C_distributed_tf.py:76: UserWarning: `tf.layers.dense` is deprecated and will be removed in a future version. Please use `tf.keras.layers.Dense` instead.
+  a_prob = tf.layers.dense(l_a, N_A, tf.nn.softmax, kernel_initializer=w_init, name='ap')
+/Users/jiyishen/Desktop/RL/Reinforcement-learning-with-tensorflow-master 2/contents/10_A3C/A3C_distributed_tf.py:78: UserWarning: `tf.layers.dense` is deprecated and will be removed in a future version. Please use `tf.keras.layers.Dense` instead.
+  l_c = tf.layers.dense(self.s, 100, tf.nn.relu6, kernel_initializer=w_init, name='lc')
+/Users/jiyishen/Desktop/RL/Reinforcement-learning-with-tensorflow-master 2/contents/10_A3C/A3C_distributed_tf.py:78: UserWarning: `tf.layers.dense` is deprecated and will be removed in a future version. Please use `tf.keras.layers.Dense` instead.
+  l_c = tf.layers.dense(self.s, 100, tf.nn.relu6, kernel_initializer=w_init, name='lc')
+/Users/jiyishen/Desktop/RL/Reinforcement-learning-with-tensorflow-master 2/contents/10_A3C/A3C_distributed_tf.py:79: UserWarning: `tf.layers.dense` is deprecated and will be removed in a future version. Please use `tf.keras.layers.Dense` instead.
+  v = tf.layers.dense(l_c, 1, kernel_initializer=w_init, name='v')  # state value
+/Users/jiyishen/Desktop/RL/Reinforcement-learning-with-tensorflow-master 2/contents/10_A3C/A3C_distributed_tf.py:78: UserWarning: `tf.layers.dense` is deprecated and will be removed in a future version. Please use `tf.keras.layers.Dense` instead.
+  l_c = tf.layers.dense(self.s, 100, tf.nn.relu6, kernel_initializer=w_init, name='lc')
+/Users/jiyishen/Desktop/RL/Reinforcement-learning-with-tensorflow-master 2/contents/10_A3C/A3C_distributed_tf.py:79: UserWarning: `tf.layers.dense` is deprecated and will be removed in a future version. Please use `tf.keras.layers.Dense` instead.
+  v = tf.layers.dense(l_c, 1, kernel_initializer=w_init, name='v')  # state value
+/Users/jiyishen/Desktop/RL/Reinforcement-learning-with-tensorflow-master 2/contents/10_A3C/A3C_distributed_tf.py:79: UserWarning: `tf.layers.dense` is deprecated and will be removed in a future version. Please use `tf.keras.layers.Dense` instead.
+  v = tf.layers.dense(l_c, 1, kernel_initializer=w_init, name='v')  # state value
+/Users/jiyishen/Desktop/RL/Reinforcement-learning-with-tensorflow-master 2/contents/10_A3C/A3C_distributed_tf.py:79: UserWarning: `tf.layers.dense` is deprecated and will be removed in a future version. Please use `tf.keras.layers.Dense` instead.
+  v = tf.layers.dense(l_c, 1, kernel_initializer=w_init, name='v')  # state value
+WARNING:tensorflow:From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/util/dispatch.py:1176: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+[2023-09-01 22:07:26,325] From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/util/dispatch.py:1176: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+WARNING:tensorflow:From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/util/dispatch.py:1176: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+[2023-09-01 22:07:26,338] From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/util/dispatch.py:1176: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+WARNING:tensorflow:From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/util/dispatch.py:1176: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+[2023-09-01 22:07:26,355] From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/util/dispatch.py:1176: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+WARNING:tensorflow:From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/util/dispatch.py:1176: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+[2023-09-01 22:07:26,362] From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/util/dispatch.py:1176: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+WARNING:tensorflow:From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/training/rmsprop.py:188: calling Ones.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+[2023-09-01 22:07:26,490] From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/training/rmsprop.py:188: calling Ones.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING:tensorflow:From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/training/rmsprop.py:188: calling Ones.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+[2023-09-01 22:07:26,503] From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/training/rmsprop.py:188: calling Ones.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING:tensorflow:From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/training/rmsprop.py:188: calling Ones.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+[2023-09-01 22:07:26,507] From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/training/rmsprop.py:188: calling Ones.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING:tensorflow:From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/training/rmsprop.py:188: calling Ones.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+[2023-09-01 22:07:26,589] From /Users/jiyishen/miniconda3/envs/myenv/lib/python3.11/site-packages/tensorflow/python/training/rmsprop.py:188: calling Ones.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2023-09-01 22:07:26.753174: I tensorflow/core/distributed_runtime/master.cc:239] Scanning workers for devices: 6 total workers
+2023-09-01 22:07:26.762533: I tensorflow/core/distributed_runtime/master.cc:239] Scanning workers for devices: 6 total workers
+2023-09-01 22:07:26.770305: I tensorflow/core/distributed_runtime/master.cc:239] Scanning workers for devices: 6 total workers
+2023-09-01 22:07:26.779958: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:375] MLIR V1 optimization pass is not enabled
+2023-09-01 22:07:26.807937: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:375] MLIR V1 optimization pass is not enabled
+2023-09-01 22:07:26.813754: I tensorflow/core/distributed_runtime/session_mgr.cc:153] When creating WorkerSession for master task /job:worker/replica:0/task:2, found old WorkerSessions created by the same master task with a different incarnation. These sessions will be garbage collected. Current WorkerSession count: 0
+2023-09-01 22:07:26.814401: I tensorflow/core/distributed_runtime/session_mgr.cc:153] When creating WorkerSession for master task /job:worker/replica:0/task:2, found old WorkerSessions created by the same master task with a different incarnation. These sessions will be garbage collected. Current WorkerSession count: 0
+2023-09-01 22:07:26.817260: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:375] MLIR V1 optimization pass is not enabled
+2023-09-01 22:07:26.819608: I tensorflow/core/distributed_runtime/session_mgr.cc:153] When creating WorkerSession for master task /job:worker/replica:0/task:3, found old WorkerSessions created by the same master task with a different incarnation. These sessions will be garbage collected. Current WorkerSession count: 1
+2023-09-01 22:07:26.819694: I tensorflow/core/distributed_runtime/session_mgr.cc:153] When creating WorkerSession for master task /job:worker/replica:0/task:3, found old WorkerSessions created by the same master task with a different incarnation. These sessions will be garbage collected. Current WorkerSession count: 1
+2023-09-01 22:07:26.826135: I tensorflow/core/distributed_runtime/session_mgr.cc:153] When creating WorkerSession for master task /job:worker/replica:0/task:1, found old WorkerSessions created by the same master task with a different incarnation. These sessions will be garbage collected. Current WorkerSession count: 2
+2023-09-01 22:07:26.826149: I tensorflow/core/distributed_runtime/session_mgr.cc:153] When creating WorkerSession for master task /job:worker/replica:0/task:1, found old WorkerSessions created by the same master task with a different incarnation. These sessions will be garbage collected. Current WorkerSession count: 2
+2023-09-01 22:07:26.886764: I tensorflow/core/distributed_runtime/master.cc:239] Scanning workers for devices: 6 total workers
+2023-09-01 22:07:26.900076: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:375] MLIR V1 optimization pass is not enabled
+2023-09-01 22:07:26.907378: I tensorflow/core/distributed_runtime/session_mgr.cc:153] When creating WorkerSession for master task /job:worker/replica:0/task:0, found old WorkerSessions created by the same master task with a different incarnation. These sessions will be garbage collected. Current WorkerSession count: 3
+2023-09-01 22:07:26.907471: I tensorflow/core/distributed_runtime/session_mgr.cc:153] When creating WorkerSession for master task /job:worker/replica:0/task:0, found old WorkerSessions created by the same master task with a different incarnation. These sessions will be garbage collected. Current WorkerSession count: 3
+Start Worker Session:  2
+Start Worker Session:  3
+Start Worker Session:  1
+
+Start Worker Session:  3
+Task: 2 | Ep: 0 | Ep_r: 4 | Global_step: 1
+Task: 0 | Ep: 0 | Ep_r: 4 | Global_step: 2
+Task: 1 | Ep: 0 | Ep_r: 4 | Global_step: 2
+Task: 3 | Ep: 0 | Ep_r: 4 | Global_step: 2
+Task: 3 | Ep: 4 | Ep_r: 4 | Global_step: 4
+Task: 2 | Ep: 5 | Ep_r: 4 | Global_step: 3
+Task: 3 | Ep: 6 | Ep_r: 4 | Global_step: 7
+Task: 2 | Ep: 7 | Ep_r: 4 | Global_step: 5
+Task: 0 | Ep: 8 | Ep_r: 4 | Global_step: 7
+Task: 2 | Ep: 9 | Ep_r: 4 | Global_step: 7
+Task: 1 | Ep: 10 | Ep_r: 5 | Global_step: 8
+Task: 3 | Ep: 11 | Ep_r: 5 | Global_step: 10
+Task: 0 | Ep: 12 | Ep_r: 5 | Global_step: 11
+Task: 1 | Ep: 13 | Ep_r: 5 | Global_step: 11
+Task: 2 | Ep: 14 | Ep_r: 5 | Global_step: 11
+Task: 3 | Ep: 15 | Ep_r: 5 | Global_step: 13
+Task: 1 | Ep: 16 | Ep_r: 5 | Global_step: 13
+Task: 2 | Ep: 16 | Ep_r: 5 | Global_step: 13
+Task: 0 | Ep: 18 | Ep_r: 5 | Global_step: 15
+Task: 1 | Ep: 19 | Ep_r: 5 | Global_step: 15
+Task: 2 | Ep: 20 | Ep_r: 5 | Global_step: 16
+Task: 3 | Ep: 21 | Ep_r: 6 | Global_step: 18
+Task: 1 | Ep: 22 | Ep_r: 6 | Global_step: 18
+Task: 0 | Ep: 23 | Ep_r: 6 | Global_step: 18
+Task: 2 | Ep: 24 | Ep_r: 6 | Global_step: 19
+Task: 0 | Ep: 25 | Ep_r: 6 | Global_step: 20
+Task: 1 | Ep: 26 | Ep_r: 6 | Global_step: 21
+Task: 2 | Ep: 27 | Ep_r: 6 | Global_step: 23
+Task: 1 | Ep: 28 | Ep_r: 6 | Global_step: 23
+Task: 0 | Ep: 29 | Ep_r: 6 | Global_step: 24
+Task: 2 | Ep: 30 | Ep_r: 6 | Global_step: 25
+Task: 0 | Ep: 31 | Ep_r: 6 | Global_step: 27
+Task: 3 | Ep: 32 | Ep_r: 7 | Global_step: 28
+Task: 2 | Ep: 32 | Ep_r: 7 | Global_step: 29
+Task: 1 | Ep: 34 | Ep_r: 7 | Global_step: 25
+Task: 0 | Ep: 35 | Ep_r: 7 | Global_step: 30
+Task: 2 | Ep: 36 | Ep_r: 7 | Global_step: 31
+Task: 1 | Ep: 37 | Ep_r: 7 | Global_step: 28
+Task: 0 | Ep: 38 | Ep_r: 7 | Global_step: 33
+Task: 0 | Ep: 39 | Ep_r: 7 | Global_step: 35
+Task: 3 | Ep: 40 | Ep_r: 8 | Global_step: 32
+Task: 2 | Ep: 41 | Ep_r: 8 | Global_step: 34
+Task: 0 | Ep: 42 | Ep_r: 8 | Global_step: 39
+Task: 2 | Ep: 43 | Ep_r: 8 | Global_step: 37
+Task: 0 | Ep: 44 | Ep_r: 8 | Global_step: 41
+Task: 3 | Ep: 44 | Ep_r: 8 | Global_step: 36
+Task: 1 | Ep: 46 | Ep_r: 9 | Global_step: 41
+Task: 2 | Ep: 47 | Ep_r: 9 | Global_step: 40
+Task: 1 | Ep: 48 | Ep_r: 9 | Global_step: 43
+Task: 2 | Ep: 49 | Ep_r: 9 | Global_step: 42
+Task: 0 | Ep: 50 | Ep_r: 9 | Global_step: 44
+Task: 3 | Ep: 51 | Ep_r: 9 | Global_step: 41
+Task: 1 | Ep: 52 | Ep_r: 9 | Global_step: 46
+Task: 2 | Ep: 53 | Ep_r: 9 | Global_step: 45
+Task: 0 | Ep: 53 | Ep_r: 10 | Global_step: 47
+Task: 2 | Ep: 55 | Ep_r: 9 | Global_step: 47
+Task: 0 | Ep: 56 | Ep_r: 10 | Global_step: 52
+Task: 1 | Ep: 57 | Ep_r: 10 | Global_step: 50
+Task: 1 | Ep: 58 | Ep_r: 10 | Global_step: 51
+Task: 2 | Ep: 59 | Ep_r: 10 | Global_step: 51
+Task: 3 | Ep: 60 | Ep_r: 10 | Global_step: 47
+Task: 0 | Ep: 61 | Ep_r: 10 | Global_step: 56
+Task: 2 | Ep: 62 | Ep_r: 11 | Global_step: 55
+Task: 3 | Ep: 63 | Ep_r: 11 | Global_step: 52
+Task: 0 | Ep: 64 | Ep_r: 11 | Global_step: 60
+Task: 2 | Ep: 65 | Ep_r: 11 | Global_step: 58
+Task: 1 | Ep: 66 | Ep_r: 11 | Global_step: 56
+Task: 3 | Ep: 67 | Ep_r: 11 | Global_step: 56
+Task: 1 | Ep: 68 | Ep_r: 11 | Global_step: 59
+Task: 1 | Ep: 69 | Ep_r: 11 | Global_step: 63
+Task: 3 | Ep: 70 | Ep_r: 12 | Global_step: 60
+Task: 0 | Ep: 71 | Ep_r: 12 | Global_step: 64
+Task: 0 | Ep: 72 | Ep_r: 12 | Global_step: 66
+Task: 2 | Ep: 73 | Ep_r: 12 | Global_step: 64
+Task: 0 | Ep: 74 | Ep_r: 12 | Global_step: 68
+Task: 1 | Ep: 74 | Ep_r: 12 | Global_step: 65
+Task: 0 | Ep: 76 | Ep_r: 12 | Global_step: 71
+Task: 3 | Ep: 76 | Ep_r: 12 | Global_step: 64
+Task: 1 | Ep: 78 | Ep_r: 12 | Global_step: 68
+Task: 2 | Ep: 79 | Ep_r: 12 | Global_step: 69
+Task: 3 | Ep: 80 | Ep_r: 12 | Global_step: 67
+Task: 0 | Ep: 81 | Ep_r: 12 | Global_step: 74
+Task: 1 | Ep: 82 | Ep_r: 12 | Global_step: 71
+Task: 2 | Ep: 82 | Ep_r: 12 | Global_step: 72
+Task: 1 | Ep: 84 | Ep_r: 12 | Global_step: 73
+Task: 2 | Ep: 85 | Ep_r: 12 | Global_step: 74
+Task: 0 | Ep: 86 | Ep_r: 12 | Global_step: 78
+Task: 3 | Ep: 87 | Ep_r: 12 | Global_step: 71
+Task: 1 | Ep: 88 | Ep_r: 12 | Global_step: 77
+Task: 2 | Ep: 89 | Ep_r: 12 | Global_step: 77
+Task: 3 | Ep: 90 | Ep_r: 13 | Global_step: 75
+Task: 1 | Ep: 90 | Ep_r: 13 | Global_step: 79
+Task: 2 | Ep: 92 | Ep_r: 13 | Global_step: 79
+Task: 1 | Ep: 93 | Ep_r: 12 | Global_step: 80
+Task: 1 | Ep: 94 | Ep_r: 13 | Global_step: 83
+Task: 3 | Ep: 95 | Ep_r: 13 | Global_step: 79
+Task: 0 | Ep: 96 | Ep_r: 13 | Global_step: 84
+Task: 1 | Ep: 97 | Ep_r: 13 | Global_step: 86
+Task: 2 | Ep: 98 | Ep_r: 13 | Global_step: 86
+Task: 0 | Ep: 99 | Ep_r: 14 | Global_step: 88
+Task: 3 | Ep: 100 | Ep_r: 14 | Global_step: 83
+Task: 2 | Ep: 101 | Ep_r: 14 | Global_step: 88
+Task: 0 | Ep: 102 | Ep_r: 14 | Global_step: 91
+Task: 3 | Ep: 103 | Ep_r: 14 | Global_step: 85
+Task: 2 | Ep: 104 | Ep_r: 14 | Global_step: 92
+Task: 1 | Ep: 104 | Ep_r: 14 | Global_step: 97
+Task: 3 | Ep: 106 | Ep_r: 15 | Global_step: 93
+Task: 1 | Ep: 107 | Ep_r: 15 | Global_step: 101
+Task: 0 | Ep: 108 | Ep_r: 15 | Global_step: 96
+Task: 3 | Ep: 109 | Ep_r: 15 | Global_step: 97
+Task: 1 | Ep: 110 | Ep_r: 15 | Global_step: 105
+Task: 0 | Ep: 111 | Ep_r: 16 | Global_step: 101
+Task: 2 | Ep: 112 | Ep_r: 16 | Global_step: 98
+Task: 1 | Ep: 113 | Ep_r: 16 | Global_step: 109
+Task: 3 | Ep: 114 | Ep_r: 16 | Global_step: 104
+Task: 2 | Ep: 115 | Ep_r: 16 | Global_step: 102
+Task: 2 | Ep: 116 | Ep_r: 16 | Global_step: 105
+Task: 0 | Ep: 117 | Ep_r: 17 | Global_step: 107
+Task: 3 | Ep: 118 | Ep_r: 17 | Global_step: 110
+Task: 1 | Ep: 119 | Ep_r: 18 | Global_step: 118
+Task: 2 | Ep: 120 | Ep_r: 18 | Global_step: 109
+Task: 1 | Ep: 121 | Ep_r: 17 | Global_step: 120
+Task: 3 | Ep: 122 | Ep_r: 17 | Global_step: 113
+Task: 0 | Ep: 123 | Ep_r: 18 | Global_step: 112
+Task: 3 | Ep: 124 | Ep_r: 18 | Global_step: 119
+Task: 2 | Ep: 125 | Ep_r: 18 | Global_step: 117
+Task: 0 | Ep: 126 | Ep_r: 19 | Global_step: 118
+Task: 1 | Ep: 127 | Ep_r: 19 | Global_step: 131
+Task: 0 | Ep: 128 | Ep_r: 19 | Global_step: 121
+Task: 3 | Ep: 129 | Ep_r: 20 | Global_step: 124
+Task: 1 | Ep: 130 | Ep_r: 20 | Global_step: 133
+Task: 2 | Ep: 131 | Ep_r: 20 | Global_step: 124
+Task: 0 | Ep: 132 | Ep_r: 20 | Global_step: 127
+Task: 3 | Ep: 133 | Ep_r: 20 | Global_step: 129
+Task: 1 | Ep: 134 | Ep_r: 21 | Global_step: 139
+Task: 2 | Ep: 135 | Ep_r: 21 | Global_step: 130
+Task: 0 | Ep: 136 | Ep_r: 21 | Global_step: 131
+Task: 1 | Ep: 136 | Ep_r: 21 | Global_step: 142
+Task: 1 | Ep: 138 | Ep_r: 21 | Global_step: 146
+Task: 2 | Ep: 139 | Ep_r: 21 | Global_step: 139
+Task: 1 | Ep: 140 | Ep_r: 21 | Global_step: 151
+Task: 3 | Ep: 141 | Ep_r: 22 | Global_step: 142
+Task: 2 | Ep: 142 | Ep_r: 23 | Global_step: 145
+Task: 2 | Ep: 143 | Ep_r: 22 | Global_step: 148
+Task: 0 | Ep: 144 | Ep_r: 24 | Global_step: 146
+Task: 3 | Ep: 145 | Ep_r: 24 | Global_step: 151
+Task: 1 | Ep: 146 | Ep_r: 25 | Global_step: 163
+Task: 1 | Ep: 147 | Ep_r: 25 | Global_step: 167
+Task: 3 | Ep: 148 | Ep_r: 25 | Global_step: 156
+Task: 0 | Ep: 149 | Ep_r: 25 | Global_step: 150
+Task: 1 | Ep: 150 | Ep_r: 25 | Global_step: 171
+Task: 1 | Ep: 151 | Ep_r: 25 | Global_step: 175
+Task: 3 | Ep: 151 | Ep_r: 25 | Global_step: 162
+Task: 0 | Ep: 153 | Ep_r: 26 | Global_step: 161
+Task: 3 | Ep: 154 | Ep_r: 26 | Global_step: 167
+Task: 2 | Ep: 155 | Ep_r: 27 | Global_step: 163
+Task: 0 | Ep: 156 | Ep_r: 27 | Global_step: 165
+Task: 3 | Ep: 157 | Ep_r: 27 | Global_step: 175
+Task: 2 | Ep: 158 | Ep_r: 28 | Global_step: 172
+Task: 1 | Ep: 159 | Ep_r: 29 | Global_step: 189
+Task: 2 | Ep: 160 | Ep_r: 28 | Global_step: 174
+Task: 2 | Ep: 161 | Ep_r: 28 | Global_step: 177
+Task: 0 | Ep: 162 | Ep_r: 29 | Global_step: 178
+Task: 0 | Ep: 163 | Ep_r: 29 | Global_step: 181
+Task: 1 | Ep: 164 | Ep_r: 29 | Global_step: 194
+Task: 1 | Ep: 165 | Ep_r: 29 | Global_step: 197
+Task: 0 | Ep: 166 | Ep_r: 29 | Global_step: 185
+Task: 1 | Ep: 167 | Ep_r: 29 | Global_step: 202
+Task: 2 | Ep: 168 | Ep_r: 29 | Global_step: 185
+Task: 0 | Ep: 169 | Ep_r: 29 | Global_step: 191
+Task: 3 | Ep: 170 | Ep_r: 31 | Global_step: 194
+Task: 1 | Ep: 171 | Ep_r: 31 | Global_step: 210
+Task: 2 | Ep: 172 | Ep_r: 32 | Global_step: 195
+Task: 3 | Ep: 173 | Ep_r: 32 | Global_step: 201
+Task: 2 | Ep: 174 | Ep_r: 32 | Global_step: 202
+Task: 0 | Ep: 175 | Ep_r: 33 | Global_step: 201
+Task: 1 | Ep: 176 | Ep_r: 34 | Global_step: 227
+Task: 0 | Ep: 177 | Ep_r: 35 | Global_step: 217
+Task: 2 | Ep: 178 | Ep_r: 36 | Global_step: 216
+Task: 3 | Ep: 179 | Ep_r: 38 | Global_step: 227
+Task: 3 | Ep: 180 | Ep_r: 38 | Global_step: 230
+Task: 1 | Ep: 181 | Ep_r: 38 | Global_step: 240
+Task: 2 | Ep: 182 | Ep_r: 39 | Global_step: 227
+Task: 0 | Ep: 183 | Ep_r: 40 | Global_step: 228
+Task: 3 | Ep: 184 | Ep_r: 40 | Global_step: 240
+Task: 0 | Ep: 185 | Ep_r: 41 | Global_step: 239
+Task: 1 | Ep: 186 | Ep_r: 41 | Global_step: 253
+Task: 0 | Ep: 187 | Ep_r: 41 | Global_step: 244
+Task: 3 | Ep: 188 | Ep_r: 42 | Global_step: 256
+Task: 3 | Ep: 189 | Ep_r: 42 | Global_step: 262
+Task: 0 | Ep: 190 | Ep_r: 43 | Global_step: 258
+Task: 2 | Ep: 191 | Ep_r: 45 | Global_step: 255
+Task: 0 | Ep: 192 | Ep_r: 45 | Global_step: 262
+Task: 1 | Ep: 193 | Ep_r: 48 | Global_step: 287
+Task: 3 | Ep: 194 | Ep_r: 49 | Global_step: 277
+Task: 0 | Ep: 195 | Ep_r: 49 | Global_step: 275
+Task: 1 | Ep: 196 | Ep_r: 50 | Global_step: 297
+Task: 3 | Ep: 197 | Ep_r: 50 | Global_step: 287
+Task: 1 | Ep: 198 | Ep_r: 50 | Global_step: 302
+Task: 2 | Ep: 199 | Ep_r: 52 | Global_step: 283
+Task: 1 | Ep: 200 | Ep_r: 53 | Global_step: 316
+Task: 3 | Ep: 201 | Ep_r: 54 | Global_step: 302
+Task: 0 | Ep: 202 | Ep_r: 56 | Global_step: 302
+Task: 2 | Ep: 203 | Ep_r: 57 | Global_step: 300
+Task: 3 | Ep: 204 | Ep_r: 58 | Global_step: 323
+Task: 0 | Ep: 205 | Ep_r: 60 | Global_step: 325
+Task: 1 | Ep: 206 | Ep_r: 62 | Global_step: 342
+Task: 1 | Ep: 207 | Ep_r: 62 | Global_step: 351
+Task: 1 | Ep: 208 | Ep_r: 61 | Global_step: 357
+Task: 0 | Ep: 209 | Ep_r: 63 | Global_step: 346
+Task: 3 | Ep: 210 | Ep_r: 64 | Global_step: 342
+Task: 1 | Ep: 211 | Ep_r: 65 | Global_step: 374
+Task: 0 | Ep: 212 | Ep_r: 66 | Global_step: 362
+Task: 3 | Ep: 213 | Ep_r: 66 | Global_step: 355
+Task: 2 | Ep: 214 | Ep_r: 70 | Global_step: 345
+Task: 3 | Ep: 215 | Ep_r: 70 | Global_step: 369
+Task: 1 | Ep: 216 | Ep_r: 72 | Global_step: 396
+Task: 3 | Ep: 217 | Ep_r: 72 | Global_step: 384
+Task: 2 | Ep: 218 | Ep_r: 74 | Global_step: 369
+Task: 3 | Ep: 219 | Ep_r: 73 | Global_step: 389
+Task: 0 | Ep: 220 | Ep_r: 76 | Global_step: 399
+Task: 1 | Ep: 221 | Ep_r: 77 | Global_step: 413
+Task: 0 | Ep: 222 | Ep_r: 77 | Global_step: 410
+Task: 2 | Ep: 222 | Ep_r: 77 | Global_step: 382
+Task: 3 | Ep: 224 | Ep_r: 78 | Global_step: 403
+Task: 3 | Ep: 225 | Ep_r: 78 | Global_step: 416
+Task: 3 | Ep: 226 | Ep_r: 79 | Global_step: 432
+Task: 2 | Ep: 227 | Ep_r: 81 | Global_step: 413
+Task: 1 | Ep: 228 | Ep_r: 84 | Global_step: 452
+Task: 2 | Ep: 229 | Ep_r: 84 | Global_step: 423
+Task: 0 | Ep: 230 | Ep_r: 89 | Global_step: 466
+Task: 3 | Ep: 231 | Ep_r: 91 | Global_step: 470
+Task: 1 | Ep: 232 | Ep_r: 94 | Global_step: 488
+Task: 0 | Ep: 233 | Ep_r: 95 | Global_step: 486
+Task: 2 | Ep: 234 | Ep_r: 97 | Global_step: 459
+Task: 3 | Ep: 235 | Ep_r: 98 | Global_step: 491
+Task: 2 | Ep: 236 | Ep_r: 99 | Global_step: 478
+Task: 0 | Ep: 237 | Ep_r: 101 | Global_step: 518
+Task: 1 | Ep: 238 | Ep_r: 105 | Global_step: 534
+Task: 3 | Ep: 239 | Ep_r: 106 | Global_step: 517
+Task: 2 | Ep: 240 | Ep_r: 106 | Global_step: 494
+Task: 1 | Ep: 241 | Ep_r: 106 | Global_step: 545
+Task: 0 | Ep: 242 | Ep_r: 107 | Global_step: 538
+Task: 2 | Ep: 243 | Ep_r: 107 | Global_step: 507
+Task: 1 | Ep: 244 | Ep_r: 107 | Global_step: 558
+Task: 0 | Ep: 245 | Ep_r: 107 | Global_step: 551
+Task: 1 | Ep: 246 | Ep_r: 108 | Global_step: 572
+Task: 2 | Ep: 247 | Ep_r: 108 | Global_step: 522
+Task: 3 | Ep: 248 | Ep_r: 110 | Global_step: 548
+Task: 1 | Ep: 249 | Ep_r: 109 | Global_step: 582
+Task: 0 | Ep: 250 | Ep_r: 110 | Global_step: 570
+Task: 3 | Ep: 251 | Ep_r: 110 | Global_step: 562
+Task: 2 | Ep: 252 | Ep_r: 111 | Global_step: 543
+Task: 1 | Ep: 253 | Ep_r: 112 | Global_step: 603
+Task: 0 | Ep: 254 | Ep_r: 113 | Global_step: 593
+Task: 3 | Ep: 255 | Ep_r: 114 | Global_step: 584
+Task: 1 | Ep: 256 | Ep_r: 115 | Global_step: 630
+Task: 0 | Ep: 257 | Ep_r: 117 | Global_step: 623
+Task: 2 | Ep: 258 | Ep_r: 120 | Global_step: 585
+Task: 3 | Ep: 259 | Ep_r: 122 | Global_step: 617
+Task: 0 | Ep: 260 | Ep_r: 122 | Global_step: 641
+Task: 1 | Ep: 261 | Ep_r: 123 | Global_step: 658
+Task: 0 | Ep: 262 | Ep_r: 125 | Global_step: 675
+Task: 2 | Ep: 263 | Ep_r: 129 | Global_step: 632
+Task: 1 | Ep: 264 | Ep_r: 130 | Global_step: 687
+Task: 3 | Ep: 265 | Ep_r: 133 | Global_step: 657
+Task: 1 | Ep: 266 | Ep_r: 132 | Global_step: 694
+Task: 0 | Ep: 267 | Ep_r: 132 | Global_step: 687
+Task: 1 | Ep: 268 | Ep_r: 131 | Global_step: 699
+Task: 2 | Ep: 269 | Ep_r: 131 | Global_step: 647
+Task: 0 | Ep: 270 | Ep_r: 130 | Global_step: 698
+Task: 3 | Ep: 271 | Ep_r: 131 | Global_step: 675
+Task: 1 | Ep: 272 | Ep_r: 131 | Global_step: 715
+Task: 3 | Ep: 273 | Ep_r: 130 | Global_step: 684
+Task: 1 | Ep: 274 | Ep_r: 130 | Global_step: 727
+Task: 0 | Ep: 275 | Ep_r: 130 | Global_step: 715
+Task: 2 | Ep: 276 | Ep_r: 131 | Global_step: 670
+Task: 0 | Ep: 277 | Ep_r: 130 | Global_step: 723
+Task: 1 | Ep: 278 | Ep_r: 130 | Global_step: 742
+Task: 3 | Ep: 279 | Ep_r: 131 | Global_step: 700
+Task: 0 | Ep: 280 | Ep_r: 130 | Global_step: 727
+Task: 0 | Ep: 281 | Ep_r: 129 | Global_step: 733
+Task: 2 | Ep: 282 | Ep_r: 129 | Global_step: 683
+Task: 3 | Ep: 283 | Ep_r: 129 | Global_step: 714
+Task: 2 | Ep: 284 | Ep_r: 128 | Global_step: 694
+Task: 1 | Ep: 285 | Ep_r: 128 | Global_step: 756
+Task: 0 | Ep: 286 | Ep_r: 128 | Global_step: 750
+Task: 3 | Ep: 287 | Ep_r: 128 | Global_step: 727
+Task: 2 | Ep: 288 | Ep_r: 128 | Global_step: 705
+Task: 3 | Ep: 289 | Ep_r: 127 | Global_step: 730
+Task: 3 | Ep: 290 | Ep_r: 126 | Global_step: 735
+Task: 1 | Ep: 291 | Ep_r: 127 | Global_step: 777
+Task: 0 | Ep: 292 | Ep_r: 127 | Global_step: 765
+Task: 2 | Ep: 293 | Ep_r: 127 | Global_step: 720
+Task: 3 | Ep: 294 | Ep_r: 126 | Global_step: 745
+Task: 3 | Ep: 295 | Ep_r: 126 | Global_step: 751
+Task: 1 | Ep: 296 | Ep_r: 125 | Global_step: 789
+Task: 1 | Ep: 297 | Ep_r: 125 | Global_step: 796
+Task: 2 | Ep: 298 | Ep_r: 124 | Global_step: 732
+Task: 0 | Ep: 299 | Ep_r: 125 | Global_step: 784
+Task: 3 | Ep: 300 | Ep_r: 125 | Global_step: 766
+Task: 2 | Ep: 301 | Ep_r: 125 | Global_step: 747
+Task: 1 | Ep: 302 | Ep_r: 125 | Global_step: 813
+Task: 0 | Ep: 303 | Ep_r: 125 | Global_step: 797
+Task: 1 | Ep: 304 | Ep_r: 124 | Global_step: 818
+Task: 3 | Ep: 305 | Ep_r: 125 | Global_step: 783
+Task: 0 | Ep: 306 | Ep_r: 125 | Global_step: 811
+Task: 2 | Ep: 307 | Ep_r: 125 | Global_step: 762
+Task: 1 | Ep: 308 | Ep_r: 125 | Global_step: 832
+Task: 1 | Ep: 309 | Ep_r: 125 | Global_step: 845
+Task: 3 | Ep: 310 | Ep_r: 126 | Global_step: 808
+Task: 2 | Ep: 311 | Ep_r: 126 | Global_step: 779
+Task: 0 | Ep: 312 | Ep_r: 128 | Global_step: 843
+Task: 2 | Ep: 313 | Ep_r: 128 | Global_step: 796
+Task: 0 | Ep: 314 | Ep_r: 128 | Global_step: 854
+Task: 2 | Ep: 315 | Ep_r: 128 | Global_step: 809
+Task: 3 | Ep: 316 | Ep_r: 130 | Global_step: 847
+Task: 1 | Ep: 317 | Ep_r: 133 | Global_step: 888
+Task: 0 | Ep: 318 | Ep_r: 133 | Global_step: 870
+Task: 3 | Ep: 319 | Ep_r: 133 | Global_step: 859
+Task: 1 | Ep: 320 | Ep_r: 133 | Global_step: 902
+Task: 2 | Ep: 321 | Ep_r: 133 | Global_step: 828
+Task: 0 | Ep: 322 | Ep_r: 133 | Global_step: 883
+Task: 3 | Ep: 323 | Ep_r: 132 | Global_step: 867
+Task: 2 | Ep: 324 | Ep_r: 131 | Global_step: 832
+Task: 1 | Ep: 325 | Ep_r: 131 | Global_step: 920
+Task: 0 | Ep: 326 | Ep_r: 132 | Global_step: 901
+Task: 3 | Ep: 327 | Ep_r: 132 | Global_step: 887
+Task: 1 | Ep: 328 | Ep_r: 132 | Global_step: 935
+Task: 3 | Ep: 329 | Ep_r: 133 | Global_step: 905
+Task: 1 | Ep: 330 | Ep_r: 133 | Global_step: 955
+Task: 2 | Ep: 331 | Ep_r: 137 | Global_step: 885
+Task: 3 | Ep: 332 | Ep_r: 138 | Global_step: 928
+Task: 2 | Ep: 333 | Ep_r: 138 | Global_step: 904
+Task: 1 | Ep: 334 | Ep_r: 140 | Global_step: 990
+Task: 0 | Ep: 335 | Ep_r: 145 | Global_step: 966
+Task: 1 | Ep: 336 | Ep_r: 145 | Global_step: 1006
+Task: 0 | Ep: 337 | Ep_r: 146 | Global_step: 988
+Task: 1 | Ep: 338 | Ep_r: 145 | Global_step: 1021
+Task: 2 | Ep: 339 | Ep_r: 147 | Global_step: 938
+Task: 3 | Ep: 340 | Ep_r: 150 | Global_step: 968
+Task: 1 | Ep: 341 | Ep_r: 149 | Global_step: 1033
+Task: 0 | Ep: 342 | Ep_r: 149 | Global_step: 1002
+Task: 2 | Ep: 343 | Ep_r: 149 | Global_step: 955
+Task: 3 | Ep: 344 | Ep_r: 149 | Global_step: 989
+Task: 1 | Ep: 345 | Ep_r: 150 | Global_step: 1053
+Task: 0 | Ep: 346 | Ep_r: 150 | Global_step: 1022
+Task: 3 | Ep: 347 | Ep_r: 151 | Global_step: 1011
+Task: 0 | Ep: 348 | Ep_r: 152 | Global_step: 1050
+Task: 2 | Ep: 349 | Ep_r: 154 | Global_step: 996
+Task: 3 | Ep: 350 | Ep_r: 155 | Global_step: 1033
+Task: 2 | Ep: 351 | Ep_r: 154 | Global_step: 1007
+Task: 1 | Ep: 352 | Ep_r: 157 | Global_step: 1100
+Task: 3 | Ep: 353 | Ep_r: 157 | Global_step: 1050
+Task: 1 | Ep: 354 | Ep_r: 157 | Global_step: 1119
+Task: 2 | Ep: 355 | Ep_r: 158 | Global_step: 1033
+Task: 0 | Ep: 356 | Ep_r: 160 | Global_step: 1092
+Task: 1 | Ep: 357 | Ep_r: 161 | Global_step: 1140
+Task: 3 | Ep: 358 | Ep_r: 161 | Global_step: 1075
+Task: 2 | Ep: 359 | Ep_r: 162 | Global_step: 1060
+Task: 0 | Ep: 360 | Ep_r: 163 | Global_step: 1119
+Task: 1 | Ep: 361 | Ep_r: 165 | Global_step: 1171
+Task: 2 | Ep: 362 | Ep_r: 166 | Global_step: 1089
+Task: 0 | Ep: 363 | Ep_r: 166 | Global_step: 1140
+Task: 3 | Ep: 364 | Ep_r: 169 | Global_step: 1122
+Task: 0 | Ep: 365 | Ep_r: 169 | Global_step: 1158
+Task: 1 | Ep: 366 | Ep_r: 170 | Global_step: 1199
+Task: 3 | Ep: 367 | Ep_r: 170 | Global_step: 1143
+Task: 2 | Ep: 368 | Ep_r: 171 | Global_step: 1115
+Task: 1 | Ep: 369 | Ep_r: 171 | Global_step: 1218
+Task: 3 | Ep: 370 | Ep_r: 171 | Global_step: 1163
+Task: 0 | Ep: 371 | Ep_r: 172 | Global_step: 1184
+Task: 2 | Ep: 372 | Ep_r: 172 | Global_step: 1133
+Task: 1 | Ep: 373 | Ep_r: 172 | Global_step: 1243
+Task: 0 | Ep: 374 | Ep_r: 173 | Global_step: 1206
+Task: 2 | Ep: 375 | Ep_r: 172 | Global_step: 1148
+Task: 3 | Ep: 376 | Ep_r: 173 | Global_step: 1185
+Task: 1 | Ep: 377 | Ep_r: 172 | Global_step: 1256
+Task: 3 | Ep: 378 | Ep_r: 172 | Global_step: 1197
+Task: 0 | Ep: 379 | Ep_r: 171 | Global_step: 1221
+Task: 1 | Ep: 380 | Ep_r: 171 | Global_step: 1270
+Task: 1 | Ep: 381 | Ep_r: 170 | Global_step: 1281
+Task: 0 | Ep: 382 | Ep_r: 170 | Global_step: 1237
+Task: 2 | Ep: 383 | Ep_r: 171 | Global_step: 1182
+Task: 3 | Ep: 384 | Ep_r: 172 | Global_step: 1226
+Task: 1 | Ep: 385 | Ep_r: 172 | Global_step: 1295
+Task: 0 | Ep: 386 | Ep_r: 172 | Global_step: 1260
+Task: 3 | Ep: 387 | Ep_r: 172 | Global_step: 1239
+Task: 2 | Ep: 388 | Ep_r: 171 | Global_step: 1195
+Task: 3 | Ep: 389 | Ep_r: 171 | Global_step: 1259
+Task: 0 | Ep: 390 | Ep_r: 172 | Global_step: 1282
+Task: 1 | Ep: 391 | Ep_r: 172 | Global_step: 1321
+Task: 2 | Ep: 392 | Ep_r: 173 | Global_step: 1215
+Task: 0 | Ep: 393 | Ep_r: 172 | Global_step: 1296
+Task: 1 | Ep: 394 | Ep_r: 172 | Global_step: 1334
+Task: 3 | Ep: 395 | Ep_r: 171 | Global_step: 1274
+Task: 2 | Ep: 396 | Ep_r: 172 | Global_step: 1238
+Task: 3 | Ep: 397 | Ep_r: 172 | Global_step: 1294
+Task: 1 | Ep: 397 | Ep_r: 172 | Global_step: 1357
+Task: 0 | Ep: 399 | Ep_r: 173 | Global_step: 1321
+Task: 1 | Ep: 400 | Ep_r: 173 | Global_step: 1377
+Task: 3 | Ep: 401 | Ep_r: 173 | Global_step: 1310
+Task: 2 | Ep: 402 | Ep_r: 174 | Global_step: 1275
+Task: 0 | Ep: 403 | Ep_r: 175 | Global_step: 1348
+Task: 3 | Ep: 404 | Ep_r: 175 | Global_step: 1324
+Task: 1 | Ep: 405 | Ep_r: 176 | Global_step: 1405
+Task: 2 | Ep: 406 | Ep_r: 176 | Global_step: 1301
+Task: 3 | Ep: 407 | Ep_r: 176 | Global_step: 1339
+Task: 1 | Ep: 408 | Ep_r: 177 | Global_step: 1436
+Task: 0 | Ep: 409 | Ep_r: 179 | Global_step: 1387
+Task: 3 | Ep: 410 | Ep_r: 180 | Global_step: 1367
+Task: 2 | Ep: 411 | Ep_r: 181 | Global_step: 1336
+Task: 1 | Ep: 412 | Ep_r: 181 | Global_step: 1453
+Task: 0 | Ep: 413 | Ep_r: 181 | Global_step: 1405
+Task: 3 | Ep: 414 | Ep_r: 181 | Global_step: 1387
+Task: 2 | Ep: 415 | Ep_r: 181 | Global_step: 1359
+Task: 1 | Ep: 416 | Ep_r: 181 | Global_step: 1470
+Task: 0 | Ep: 417 | Ep_r: 182 | Global_step: 1428
+Task: 3 | Ep: 418 | Ep_r: 181 | Global_step: 1403
+Task: 2 | Ep: 419 | Ep_r: 181 | Global_step: 1376
+Task: 1 | Ep: 420 | Ep_r: 181 | Global_step: 1493
+Task: 0 | Ep: 421 | Ep_r: 181 | Global_step: 1443
+Task: 3 | Ep: 421 | Ep_r: 180 | Global_step: 1418
+Task: 2 | Ep: 423 | Ep_r: 180 | Global_step: 1391
+Task: 0 | Ep: 424 | Ep_r: 180 | Global_step: 1459
+Task: 1 | Ep: 425 | Ep_r: 179 | Global_step: 1509
+Task: 3 | Ep: 426 | Ep_r: 179 | Global_step: 1440
+Task: 2 | Ep: 427 | Ep_r: 179 | Global_step: 1407
+Task: 0 | Ep: 428 | Ep_r: 179 | Global_step: 1476
+Task: 1 | Ep: 429 | Ep_r: 179 | Global_step: 1531
+Task: 2 | Ep: 430 | Ep_r: 179 | Global_step: 1426
+Task: 3 | Ep: 431 | Ep_r: 180 | Global_step: 1466
+Task: 1 | Ep: 432 | Ep_r: 181 | Global_step: 1560
+Task: 2 | Ep: 433 | Ep_r: 181 | Global_step: 1450
+Task: 0 | Ep: 434 | Ep_r: 182 | Global_step: 1509
+Task: 3 | Ep: 435 | Ep_r: 183 | Global_step: 1488
+Task: 1 | Ep: 436 | Ep_r: 182 | Global_step: 1579
+Task: 2 | Ep: 437 | Ep_r: 183 | Global_step: 1475
+Task: 3 | Ep: 438 | Ep_r: 183 | Global_step: 1513
+Task: 0 | Ep: 439 | Ep_r: 184 | Global_step: 1538
+Task: 3 | Ep: 440 | Ep_r: 184 | Global_step: 1533
+Task: 2 | Ep: 441 | Ep_r: 186 | Global_step: 1513
+Task: 1 | Ep: 442 | Ep_r: 189 | Global_step: 1626
+Task: 3 | Ep: 443 | Ep_r: 189 | Global_step: 1553
+Task: 0 | Ep: 444 | Ep_r: 191 | Global_step: 1580
+Task: 2 | Ep: 445 | Ep_r: 191 | Global_step: 1537
+Task: 1 | Ep: 446 | Ep_r: 192 | Global_step: 1652
+Task: 3 | Ep: 447 | Ep_r: 192 | Global_step: 1578
+Task: 0 | Ep: 448 | Ep_r: 192 | Global_step: 1600
+Task: 1 | Ep: 449 | Ep_r: 192 | Global_step: 1672
+Task: 3 | Ep: 450 | Ep_r: 192 | Global_step: 1599
+Task: 2 | Ep: 451 | Ep_r: 193 | Global_step: 1562
+Task: 0 | Ep: 452 | Ep_r: 193 | Global_step: 1625
+Task: 3 | Ep: 453 | Ep_r: 193 | Global_step: 1616
+Task: 1 | Ep: 454 | Ep_r: 193 | Global_step: 1697
+Task: 2 | Ep: 455 | Ep_r: 193 | Global_step: 1584
+Task: 0 | Ep: 456 | Ep_r: 193 | Global_step: 1646
+Task: 3 | Ep: 457 | Ep_r: 193 | Global_step: 1631
+Task: 3 | Ep: 458 | Ep_r: 191 | Global_step: 1634
+Task: 2 | Ep: 459 | Ep_r: 189 | Global_step: 1590
+Task: 1 | Ep: 460 | Ep_r: 189 | Global_step: 1715
+Task: 2 | Ep: 461 | Ep_r: 188 | Global_step: 1598
+Task: 0 | Ep: 462 | Ep_r: 187 | Global_step: 1661
+Task: 3 | Ep: 463 | Ep_r: 187 | Global_step: 1652
+Task: 1 | Ep: 464 | Ep_r: 187 | Global_step: 1736
+Task: 3 | Ep: 465 | Ep_r: 187 | Global_step: 1669
+Task: 0 | Ep: 466 | Ep_r: 187 | Global_step: 1688
+Task: 2 | Ep: 467 | Ep_r: 188 | Global_step: 1626
+Task: 1 | Ep: 468 | Ep_r: 188 | Global_step: 1753
+Task: 0 | Ep: 469 | Ep_r: 188 | Global_step: 1708
+Task: 3 | Ep: 470 | Ep_r: 188 | Global_step: 1694
+Task: 2 | Ep: 471 | Ep_r: 189 | Global_step: 1656
+Task: 0 | Ep: 472 | Ep_r: 189 | Global_step: 1728
+Task: 3 | Ep: 473 | Ep_r: 188 | Global_step: 1705
+Task: 0 | Ep: 474 | Ep_r: 187 | Global_step: 1734
+Task: 3 | Ep: 475 | Ep_r: 185 | Global_step: 1710
+Task: 2 | Ep: 476 | Ep_r: 185 | Global_step: 1672
+Task: 1 | Ep: 477 | Ep_r: 188 | Global_step: 1803
+Task: 0 | Ep: 478 | Ep_r: 189 | Global_step: 1767
+Task: 1 | Ep: 479 | Ep_r: 188 | Global_step: 1816
+Task: 2 | Ep: 480 | Ep_r: 188 | Global_step: 1692
+Task: 3 | Ep: 481 | Ep_r: 191 | Global_step: 1753
+Task: 2 | Ep: 482 | Ep_r: 189 | Global_step: 1700
+Task: 0 | Ep: 483 | Ep_r: 191 | Global_step: 1805
+Task: 1 | Ep: 484 | Ep_r: 192 | Global_step: 1850
+Task: 3 | Ep: 485 | Ep_r: 193 | Global_step: 1783
+Task: 1 | Ep: 486 | Ep_r: 192 | Global_step: 1856
+Task: 0 | Ep: 487 | Ep_r: 192 | Global_step: 1827
+Task: 0 | Ep: 488 | Ep_r: 192 | Global_step: 1843
+Task: 2 | Ep: 489 | Ep_r: 195 | Global_step: 1753
+Task: 2 | Ep: 490 | Ep_r: 194 | Global_step: 1767
+Task: 0 | Ep: 491 | Ep_r: 194 | Global_step: 1860
+Task: 1 | Ep: 492 | Ep_r: 196 | Global_step: 1903
+Task: 1 | Ep: 493 | Ep_r: 196 | Global_step: 1924
+Task: 0 | Ep: 494 | Ep_r: 197 | Global_step: 1884
+Task: 2 | Ep: 495 | Ep_r: 197 | Global_step: 1793
+Task: 2 | Ep: 496 | Ep_r: 198 | Global_step: 1822
+Task: 3 | Ep: 497 | Ep_r: 207 | Global_step: 1897
+Task: 2 | Ep: 498 | Ep_r: 207 | Global_step: 1845
+Task: 2 | Ep: 499 | Ep_r: 206 | Global_step: 1859
+Task: 1 | Ep: 500 | Ep_r: 212 | Global_step: 2001
+Task: 1 | Ep: 501 | Ep_r: 212 | Global_step: 2026
+Task: 2 | Ep: 502 | Ep_r: 213 | Global_step: 1892
+Task: 0 | Ep: 503 | Ep_r: 221 | Global_step: 1989
+Task: 3 | Ep: 504 | Ep_r: 224 | Global_step: 1952
+Task: 2 | Ep: 505 | Ep_r: 224 | Global_step: 1914
+Task: 3 | Ep: 506 | Ep_r: 223 | Global_step: 1963
+Task: 1 | Ep: 507 | Ep_r: 225 | Global_step: 2072
+Task: 2 | Ep: 508 | Ep_r: 225 | Global_step: 1939
+Task: 3 | Ep: 509 | Ep_r: 225 | Global_step: 1984
+Task: 0 | Ep: 510 | Ep_r: 227 | Global_step: 2037
+Task: 0 | Ep: 511 | Ep_r: 226 | Global_step: 2046
+Task: 2 | Ep: 512 | Ep_r: 227 | Global_step: 1975
+Task: 3 | Ep: 513 | Ep_r: 228 | Global_step: 2017
+Task: 1 | Ep: 514 | Ep_r: 232 | Global_step: 2138
+Task: 0 | Ep: 515 | Ep_r: 233 | Global_step: 2081
+Task: 3 | Ep: 516 | Ep_r: 233 | Global_step: 2041
+Task: 2 | Ep: 517 | Ep_r: 233 | Global_step: 2003
+Task: 1 | Ep: 518 | Ep_r: 233 | Global_step: 2165
+Task: 0 | Ep: 519 | Ep_r: 233 | Global_step: 2108
+Task: 2 | Ep: 520 | Ep_r: 233 | Global_step: 2025
+Task: 3 | Ep: 521 | Ep_r: 233 | Global_step: 2068
+Task: 1 | Ep: 522 | Ep_r: 233 | Global_step: 2183
+Task: 0 | Ep: 523 | Ep_r: 232 | Global_step: 2127
+Task: 1 | Ep: 524 | Ep_r: 231 | Global_step: 2200
+Task: 2 | Ep: 525 | Ep_r: 231 | Global_step: 2049
+Task: 3 | Ep: 526 | Ep_r: 231 | Global_step: 2087
+Task: 0 | Ep: 527 | Ep_r: 230 | Global_step: 2141
+Task: 3 | Ep: 528 | Ep_r: 228 | Global_step: 2090
+Task: 2 | Ep: 529 | Ep_r: 227 | Global_step: 2067
+Task: 0 | Ep: 530 | Ep_r: 226 | Global_step: 2156
+Task: 1 | Ep: 531 | Ep_r: 226 | Global_step: 2222
+Task: 1 | Ep: 532 | Ep_r: 224 | Global_step: 2226
+Task: 0 | Ep: 533 | Ep_r: 222 | Global_step: 2166
+Task: 3 | Ep: 533 | Ep_r: 222 | Global_step: 2110
+Task: 1 | Ep: 535 | Ep_r: 220 | Global_step: 2235
+Task: 1 | Ep: 536 | Ep_r: 219 | Global_step: 2242
+Task: 3 | Ep: 537 | Ep_r: 217 | Global_step: 2120
+Task: 2 | Ep: 538 | Ep_r: 218 | Global_step: 2092
+Task: 1 | Ep: 539 | Ep_r: 216 | Global_step: 2249
+Task: 0 | Ep: 540 | Ep_r: 215 | Global_step: 2182
+Task: 0 | Ep: 541 | Ep_r: 213 | Global_step: 2184
+Task: 3 | Ep: 542 | Ep_r: 212 | Global_step: 2131
+Task: 1 | Ep: 543 | Ep_r: 210 | Global_step: 2254
+Task: 3 | Ep: 544 | Ep_r: 208 | Global_step: 2136
+Task: 1 | Ep: 545 | Ep_r: 207 | Global_step: 2258
+Task: 1 | Ep: 546 | Ep_r: 205 | Global_step: 2261
+Task: 2 | Ep: 547 | Ep_r: 204 | Global_step: 2107
+Task: 0 | Ep: 548 | Ep_r: 203 | Global_step: 2195
+Task: 0 | Ep: 549 | Ep_r: 201 | Global_step: 2198
+Task: 1 | Ep: 550 | Ep_r: 200 | Global_step: 2273
+Task: 3 | Ep: 551 | Ep_r: 199 | Global_step: 2152
+Task: 1 | Ep: 552 | Ep_r: 198 | Global_step: 2279
+Task: 2 | Ep: 553 | Ep_r: 197 | Global_step: 2120
+Task: 0 | Ep: 554 | Ep_r: 196 | Global_step: 2213
+Task: 2 | Ep: 555 | Ep_r: 195 | Global_step: 2123
+Task: 2 | Ep: 556 | Ep_r: 193 | Global_step: 2128
+Task: 3 | Ep: 557 | Ep_r: 192 | Global_step: 2164
+Task: 2 | Ep: 558 | Ep_r: 191 | Global_step: 2134
+Task: 0 | Ep: 559 | Ep_r: 190 | Global_step: 2227
+Task: 1 | Ep: 560 | Ep_r: 190 | Global_step: 2295
+Task: 3 | Ep: 561 | Ep_r: 189 | Global_step: 2183
+Task: 0 | Ep: 562 | Ep_r: 190 | Global_step: 2251
+Task: 2 | Ep: 563 | Ep_r: 190 | Global_step: 2158
+Task: 1 | Ep: 564 | Ep_r: 190 | Global_step: 2317
+Task: 1 | Ep: 565 | Ep_r: 189 | Global_step: 2327
+Task: 3 | Ep: 566 | Ep_r: 189 | Global_step: 2204
+Task: 2 | Ep: 567 | Ep_r: 189 | Global_step: 2179
+Task: 2 | Ep: 568 | Ep_r: 189 | Global_step: 2196
+Task: 0 | Ep: 569 | Ep_r: 193 | Global_step: 2310
+Task: 2 | Ep: 570 | Ep_r: 194 | Global_step: 2227
+Task: 3 | Ep: 571 | Ep_r: 198 | Global_step: 2269
+Task: 0 | Ep: 572 | Ep_r: 198 | Global_step: 2334
+Task: 1 | Ep: 573 | Ep_r: 204 | Global_step: 2401
+Task: 2 | Ep: 574 | Ep_r: 204 | Global_step: 2253
+Task: 0 | Ep: 575 | Ep_r: 205 | Global_step: 2361
+Task: 3 | Ep: 576 | Ep_r: 205 | Global_step: 2296
+Task: 2 | Ep: 577 | Ep_r: 205 | Global_step: 2272
+Task: 1 | Ep: 578 | Ep_r: 207 | Global_step: 2449
+Task: 0 | Ep: 579 | Ep_r: 209 | Global_step: 2395
+Task: 3 | Ep: 580 | Ep_r: 211 | Global_step: 2344
+Task: 2 | Ep: 581 | Ep_r: 213 | Global_step: 2310
+Task: 0 | Ep: 582 | Ep_r: 215 | Global_step: 2438
+Task: 3 | Ep: 583 | Ep_r: 215 | Global_step: 2374
+Task: 0 | Ep: 584 | Ep_r: 215 | Global_step: 2456
+Task: 1 | Ep: 585 | Ep_r: 219 | Global_step: 2519
+Task: 2 | Ep: 586 | Ep_r: 221 | Global_step: 2353
+Task: 0 | Ep: 587 | Ep_r: 222 | Global_step: 2481
+Task: 2 | Ep: 588 | Ep_r: 221 | Global_step: 2368
+Task: 1 | Ep: 589 | Ep_r: 221 | Global_step: 2544
+Task: 3 | Ep: 590 | Ep_r: 222 | Global_step: 2410
+Task: 0 | Ep: 591 | Ep_r: 222 | Global_step: 2499
+Task: 2 | Ep: 592 | Ep_r: 222 | Global_step: 2392
+Task: 3 | Ep: 593 | Ep_r: 221 | Global_step: 2426
+Task: 1 | Ep: 594 | Ep_r: 221 | Global_step: 2567
+Task: 2 | Ep: 595 | Ep_r: 222 | Global_step: 2424
+Task: 3 | Ep: 596 | Ep_r: 228 | Global_step: 2512
+Task: 2 | Ep: 597 | Ep_r: 232 | Global_step: 2487
+Task: 2 | Ep: 598 | Ep_r: 230 | Global_step: 2497
+Task: 3 | Ep: 599 | Ep_r: 231 | Global_step: 2545
+Task: 1 | Ep: 600 | Ep_r: 248 | Global_step: 2761
+Task: 3 | Ep: 601 | Ep_r: 254 | Global_step: 2628
+Task: 1 | Ep: 602 | Ep_r: 252 | Global_step: 2771
+Task: 2 | Ep: 603 | Ep_r: 261 | Global_step: 2612
+Task: 1 | Ep: 604 | Ep_r: 258 | Global_step: 2774
+Task: 0 | Ep: 605 | Ep_r: 278 | Global_step: 2719
+Task: 3 | Ep: 606 | Ep_r: 284 | Global_step: 2722
+Task: 2 | Ep: 607 | Ep_r: 290 | Global_step: 2696
+Task: 1 | Ep: 608 | Ep_r: 295 | Global_step: 2859
+Task: 0 | Ep: 609 | Ep_r: 301 | Global_step: 2808
+Task: 1 | Ep: 610 | Ep_r: 300 | Global_step: 2877
+Task: 3 | Ep: 611 | Ep_r: 299 | Global_step: 2746
+Task: 2 | Ep: 612 | Ep_r: 298 | Global_step: 2716
+Task: 0 | Ep: 613 | Ep_r: 297 | Global_step: 2827
+Task: 1 | Ep: 614 | Ep_r: 295 | Global_step: 2891
+Task: 3 | Ep: 615 | Ep_r: 293 | Global_step: 2760
+Task: 2 | Ep: 616 | Ep_r: 292 | Global_step: 2732
+Task: 1 | Ep: 617 | Ep_r: 290 | Global_step: 2906
+Task: 0 | Ep: 617 | Ep_r: 289 | Global_step: 2843
+Task: 2 | Ep: 619 | Ep_r: 287 | Global_step: 2750
+Task: 3 | Ep: 620 | Ep_r: 287 | Global_step: 2791
+Task: 1 | Ep: 621 | Ep_r: 287 | Global_step: 2933
+Task: 0 | Ep: 622 | Ep_r: 287 | Global_step: 2877
+Task: 3 | Ep: 623 | Ep_r: 287 | Global_step: 2819
+Task: 1 | Ep: 624 | Ep_r: 286 | Global_step: 2956
+Task: 2 | Ep: 625 | Ep_r: 287 | Global_step: 2787
+Task: 0 | Ep: 626 | Ep_r: 287 | Global_step: 2907
+Task: 3 | Ep: 627 | Ep_r: 286 | Global_step: 2838
+Task: 2 | Ep: 628 | Ep_r: 285 | Global_step: 2802
+Task: 1 | Ep: 629 | Ep_r: 284 | Global_step: 2977
+Task: 0 | Ep: 630 | Ep_r: 281 | Global_step: 2914
+Task: 0 | Ep: 631 | Ep_r: 279 | Global_step: 2920
+Task: 3 | Ep: 632 | Ep_r: 277 | Global_step: 2852
+Task: 0 | Ep: 633 | Ep_r: 275 | Global_step: 2924
+Task: 2 | Ep: 634 | Ep_r: 273 | Global_step: 2815
+Task: 1 | Ep: 635 | Ep_r: 272 | Global_step: 2989
+Task: 2 | Ep: 636 | Ep_r: 269 | Global_step: 2818
+Task: 0 | Ep: 637 | Ep_r: 267 | Global_step: 2934
+Task: 3 | Ep: 638 | Ep_r: 266 | Global_step: 2863
+Task: 2 | Ep: 639 | Ep_r: 264 | Global_step: 2831
+Task: 1 | Ep: 640 | Ep_r: 262 | Global_step: 3001
+Task: 3 | Ep: 641 | Ep_r: 261 | Global_step: 2875
+Task: 1 | Ep: 642 | Ep_r: 259 | Global_step: 3006
+Task: 2 | Ep: 643 | Ep_r: 257 | Global_step: 2843
+Task: 0 | Ep: 644 | Ep_r: 256 | Global_step: 2950
+Task: 2 | Ep: 645 | Ep_r: 254 | Global_step: 2847
+Task: 2 | Ep: 646 | Ep_r: 251 | Global_step: 2849
+Task: 1 | Ep: 647 | Ep_r: 250 | Global_step: 3017
+Task: 3 | Ep: 648 | Ep_r: 248 | Global_step: 2888
+Task: 0 | Ep: 649 | Ep_r: 247 | Global_step: 2962
+Task: 2 | Ep: 650 | Ep_r: 246 | Global_step: 2861
+Task: 1 | Ep: 651 | Ep_r: 244 | Global_step: 3032
+Task: 3 | Ep: 652 | Ep_r: 243 | Global_step: 2902
+Task: 0 | Ep: 653 | Ep_r: 242 | Global_step: 2977
+Task: 1 | Ep: 654 | Ep_r: 241 | Global_step: 3046
+Task: 2 | Ep: 655 | Ep_r: 240 | Global_step: 2878
+Task: 3 | Ep: 656 | Ep_r: 239 | Global_step: 2917
+Task: 0 | Ep: 657 | Ep_r: 237 | Global_step: 2988
+Task: 1 | Ep: 658 | Ep_r: 236 | Global_step: 3059
+Task: 2 | Ep: 659 | Ep_r: 235 | Global_step: 2895
+Task: 3 | Ep: 660 | Ep_r: 235 | Global_step: 2935
+Task: 0 | Ep: 661 | Ep_r: 234 | Global_step: 3006
+Task: 3 | Ep: 662 | Ep_r: 233 | Global_step: 2952
+Task: 1 | Ep: 663 | Ep_r: 233 | Global_step: 3087
+Task: 2 | Ep: 664 | Ep_r: 233 | Global_step: 2919
+Task: 0 | Ep: 665 | Ep_r: 233 | Global_step: 3028
+Task: 3 | Ep: 666 | Ep_r: 232 | Global_step: 2967
+Task: 2 | Ep: 667 | Ep_r: 232 | Global_step: 2940
+Task: 0 | Ep: 668 | Ep_r: 232 | Global_step: 3054
+Task: 1 | Ep: 669 | Ep_r: 232 | Global_step: 3118
+Task: 3 | Ep: 670 | Ep_r: 232 | Global_step: 2990
+Task: 2 | Ep: 671 | Ep_r: 232 | Global_step: 2962
+Task: 1 | Ep: 672 | Ep_r: 233 | Global_step: 3149
+Task: 3 | Ep: 673 | Ep_r: 233 | Global_step: 3015
+Task: 2 | Ep: 674 | Ep_r: 232 | Global_step: 2982
+Task: 0 | Ep: 675 | Ep_r: 234 | Global_step: 3096
+Task: 1 | Ep: 676 | Ep_r: 234 | Global_step: 3176
+Task: 3 | Ep: 677 | Ep_r: 235 | Global_step: 3044
+Task: 0 | Ep: 678 | Ep_r: 235 | Global_step: 3121
+Task: 2 | Ep: 679 | Ep_r: 235 | Global_step: 3005
+Task: 0 | Ep: 680 | Ep_r: 234 | Global_step: 3138
+Task: 1 | Ep: 681 | Ep_r: 234 | Global_step: 3206
+Task: 3 | Ep: 682 | Ep_r: 235 | Global_step: 3076
+Task: 2 | Ep: 683 | Ep_r: 235 | Global_step: 3029
+Task: 0 | Ep: 684 | Ep_r: 234 | Global_step: 3158
+Task: 1 | Ep: 685 | Ep_r: 234 | Global_step: 3227
+Task: 1 | Ep: 686 | Ep_r: 232 | Global_step: 3231
+Task: 2 | Ep: 687 | Ep_r: 231 | Global_step: 3047
+Task: 0 | Ep: 688 | Ep_r: 231 | Global_step: 3176
+Task: 2 | Ep: 689 | Ep_r: 230 | Global_step: 3065
+Task: 1 | Ep: 690 | Ep_r: 229 | Global_step: 3251
+Task: 3 | Ep: 691 | Ep_r: 231 | Global_step: 3115
+Task: 0 | Ep: 692 | Ep_r: 231 | Global_step: 3200
+Task: 1 | Ep: 693 | Ep_r: 230 | Global_step: 3270
+Task: 1 | Ep: 694 | Ep_r: 229 | Global_step: 3284
+Task: 1 | Ep: 695 | Ep_r: 228 | Global_step: 3293
+Task: 3 | Ep: 696 | Ep_r: 229 | Global_step: 3155
+Task: 2 | Ep: 697 | Ep_r: 233 | Global_step: 3123
+Task: 0 | Ep: 697 | Ep_r: 235 | Global_step: 3248
+Task: 3 | Ep: 699 | Ep_r: 235 | Global_step: 3176
+Task: 1 | Ep: 700 | Ep_r: 235 | Global_step: 3325
+Task: 0 | Ep: 701 | Ep_r: 235 | Global_step: 3275
+Task: 2 | Ep: 702 | Ep_r: 236 | Global_step: 3153
+Task: 1 | Ep: 703 | Ep_r: 236 | Global_step: 3354
+Task: 3 | Ep: 704 | Ep_r: 237 | Global_step: 3204
+Task: 2 | Ep: 705 | Ep_r: 237 | Global_step: 3184
+Task: 0 | Ep: 706 | Ep_r: 238 | Global_step: 3311
+Task: 1 | Ep: 707 | Ep_r: 238 | Global_step: 3373
+Task: 2 | Ep: 708 | Ep_r: 237 | Global_step: 3204
+Task: 3 | Ep: 709 | Ep_r: 238 | Global_step: 3236
+Task: 1 | Ep: 710 | Ep_r: 237 | Global_step: 3394
+Task: 1 | Ep: 711 | Ep_r: 235 | Global_step: 3397
+Task: 2 | Ep: 712 | Ep_r: 234 | Global_step: 3221
+Task: 3 | Ep: 713 | Ep_r: 233 | Global_step: 3250
+Task: 0 | Ep: 714 | Ep_r: 234 | Global_step: 3350
+Task: 1 | Ep: 714 | Ep_r: 233 | Global_step: 3404
+Task: 1 | Ep: 716 | Ep_r: 231 | Global_step: 3407
+Task: 2 | Ep: 717 | Ep_r: 230 | Global_step: 3237
+Task: 3 | Ep: 718 | Ep_r: 229 | Global_step: 3267
+Task: 0 | Ep: 719 | Ep_r: 228 | Global_step: 3367
+Task: 2 | Ep: 720 | Ep_r: 226 | Global_step: 3241
+Task: 1 | Ep: 721 | Ep_r: 226 | Global_step: 3426
+Task: 2 | Ep: 722 | Ep_r: 225 | Global_step: 3262
+Task: 3 | Ep: 723 | Ep_r: 226 | Global_step: 3295
+Task: 1 | Ep: 724 | Ep_r: 225 | Global_step: 3446
+Task: 0 | Ep: 725 | Ep_r: 226 | Global_step: 3398
+Task: 1 | Ep: 726 | Ep_r: 226 | Global_step: 3466
+Task: 0 | Ep: 727 | Ep_r: 226 | Global_step: 3423
+Task: 3 | Ep: 728 | Ep_r: 226 | Global_step: 3327
+Task: 1 | Ep: 729 | Ep_r: 225 | Global_step: 3476
+Task: 0 | Ep: 730 | Ep_r: 224 | Global_step: 3438
+Task: 3 | Ep: 731 | Ep_r: 223 | Global_step: 3339
+Task: 1 | Ep: 732 | Ep_r: 221 | Global_step: 3484
+Task: 2 | Ep: 733 | Ep_r: 223 | Global_step: 3307
+Task: 3 | Ep: 734 | Ep_r: 222 | Global_step: 3352
+Task: 0 | Ep: 735 | Ep_r: 221 | Global_step: 3453
+Task: 2 | Ep: 736 | Ep_r: 220 | Global_step: 3316
+Task: 1 | Ep: 737 | Ep_r: 219 | Global_step: 3498
+Task: 0 | Ep: 738 | Ep_r: 218 | Global_step: 3468
+Task: 3 | Ep: 739 | Ep_r: 218 | Global_step: 3372
+Task: 1 | Ep: 740 | Ep_r: 218 | Global_step: 3520
+Task: 2 | Ep: 741 | Ep_r: 218 | Global_step: 3338
+Task: 0 | Ep: 742 | Ep_r: 218 | Global_step: 3495
+Task: 2 | Ep: 743 | Ep_r: 217 | Global_step: 3354
+Task: 1 | Ep: 744 | Ep_r: 218 | Global_step: 3545
+Task: 2 | Ep: 745 | Ep_r: 217 | Global_step: 3373
+Task: 3 | Ep: 746 | Ep_r: 219 | Global_step: 3418
+Task: 0 | Ep: 747 | Ep_r: 220 | Global_step: 3525
+Task: 3 | Ep: 748 | Ep_r: 219 | Global_step: 3434
+Task: 2 | Ep: 749 | Ep_r: 220 | Global_step: 3408
+Task: 3 | Ep: 750 | Ep_r: 220 | Global_step: 3451
+Task: 1 | Ep: 751 | Ep_r: 223 | Global_step: 3604
+Task: 3 | Ep: 752 | Ep_r: 225 | Global_step: 3492
+Task: 3 | Ep: 753 | Ep_r: 223 | Global_step: 3499
+Task: 0 | Ep: 754 | Ep_r: 229 | Global_step: 3606
+Task: 2 | Ep: 755 | Ep_r: 232 | Global_step: 3468
+Task: 0 | Ep: 756 | Ep_r: 231 | Global_step: 3614
+Task: 3 | Ep: 757 | Ep_r: 230 | Global_step: 3515
+Task: 1 | Ep: 758 | Ep_r: 232 | Global_step: 3645
+Task: 2 | Ep: 759 | Ep_r: 231 | Global_step: 3487
+Task: 1 | Ep: 760 | Ep_r: 231 | Global_step: 3670
+Task: 3 | Ep: 761 | Ep_r: 232 | Global_step: 3546
+Task: 2 | Ep: 762 | Ep_r: 232 | Global_step: 3514
+Task: 1 | Ep: 763 | Ep_r: 232 | Global_step: 3694
+Task: 3 | Ep: 764 | Ep_r: 232 | Global_step: 3573
+Task: 2 | Ep: 765 | Ep_r: 232 | Global_step: 3537
+Task: 1 | Ep: 766 | Ep_r: 231 | Global_step: 3709
+Task: 3 | Ep: 767 | Ep_r: 231 | Global_step: 3594
+Task: 1 | Ep: 768 | Ep_r: 230 | Global_step: 3725
+Task: 2 | Ep: 769 | Ep_r: 229 | Global_step: 3558
+Task: 0 | Ep: 770 | Ep_r: 235 | Global_step: 3698
+Task: 2 | Ep: 771 | Ep_r: 235 | Global_step: 3577
+Task: 0 | Ep: 772 | Ep_r: 234 | Global_step: 3716
+Task: 1 | Ep: 773 | Ep_r: 234 | Global_step: 3749
+Task: 3 | Ep: 774 | Ep_r: 234 | Global_step: 3622
+Task: 1 | Ep: 775 | Ep_r: 233 | Global_step: 3761
+Task: 2 | Ep: 776 | Ep_r: 232 | Global_step: 3594
+Task: 1 | Ep: 777 | Ep_r: 231 | Global_step: 3773
+Task: 3 | Ep: 778 | Ep_r: 230 | Global_step: 3642
+Task: 0 | Ep: 779 | Ep_r: 231 | Global_step: 3744
+Task: 2 | Ep: 780 | Ep_r: 230 | Global_step: 3610
+Task: 1 | Ep: 781 | Ep_r: 228 | Global_step: 3782
+Task: 0 | Ep: 782 | Ep_r: 227 | Global_step: 3752
+Task: 3 | Ep: 783 | Ep_r: 226 | Global_step: 3658
+Task: 1 | Ep: 784 | Ep_r: 225 | Global_step: 3797
+Task: 2 | Ep: 785 | Ep_r: 224 | Global_step: 3628
+Task: 1 | Ep: 786 | Ep_r: 222 | Global_step: 3800
+Task: 0 | Ep: 787 | Ep_r: 221 | Global_step: 3769
+Task: 3 | Ep: 788 | Ep_r: 220 | Global_step: 3671
+Task: 1 | Ep: 789 | Ep_r: 219 | Global_step: 3806
+Task: 0 | Ep: 790 | Ep_r: 218 | Global_step: 3783
+Task: 3 | Ep: 791 | Ep_r: 217 | Global_step: 3685
+Task: 1 | Ep: 792 | Ep_r: 216 | Global_step: 3821
+Task: 2 | Ep: 793 | Ep_r: 217 | Global_step: 3660
+Task: 2 | Ep: 794 | Ep_r: 215 | Global_step: 3665
+Task: 0 | Ep: 795 | Ep_r: 216 | Global_step: 3815
+Task: 2 | Ep: 796 | Ep_r: 215 | Global_step: 3680
+2023-09-01 22:05:21.426581: I tensorflow/core/distributed_runtime/master.cc:239] Scanning workers for devices: 6 total workers
+Task: 2 | Ep: 797 | Ep_r: 214 | Global_step: 3694
+Task: 1 | Ep: 798 | Ep_r: 216 | Global_step: 3860
+Task: 1 | Ep: 799 | Ep_r: 213 | Global_step: 3862
+Task: 2 | Ep: 800 | Ep_r: 212 | Global_step: 3697
+Task: 2 | Ep: 801 | Ep_r: 210 | Global_step: 3700
+Task: 3 | Ep: 802 | Ep_r: 212 | Global_step: 3729
+Task: 1 | Ep: 803 | Ep_r: 210 | Global_step: 3868
+Task: 3 | Ep: 804 | Ep_r: 208 | Global_step: 3731
+Task: 1 | Ep: 805 | Ep_r: 206 | Global_step: 3871
+Task: 3 | Ep: 806 | Ep_r: 204 | Global_step: 3733
+Task: 2 | Ep: 807 | Ep_r: 202 | Global_step: 3704
+Task: 1 | Ep: 808 | Ep_r: 200 | Global_step: 3873
+Task: 2 | Ep: 808 | Ep_r: 200 | Global_step: 3706
+Task: 3 | Ep: 810 | Ep_r: 198 | Global_step: 3736
+Task: 2 | Ep: 811 | Ep_r: 197 | Global_step: 3709
+Task: 3 | Ep: 812 | Ep_r: 195 | Global_step: 3738
+Task: 2 | Ep: 813 | Ep_r: 193 | Global_step: 3711
+Task: 3 | Ep: 814 | Ep_r: 191 | Global_step: 3740
+Task: 1 | Ep: 815 | Ep_r: 189 | Global_step: 3880
+Task: 2 | Ep: 816 | Ep_r: 188 | Global_step: 3714
+Task: 3 | Ep: 817 | Ep_r: 186 | Global_step: 3743
+Task: 1 | Ep: 818 | Ep_r: 184 | Global_step: 3882
+Task: 3 | Ep: 819 | Ep_r: 183 | Global_step: 3746
+Task: 2 | Ep: 820 | Ep_r: 181 | Global_step: 3718
+Task: 2 | Ep: 821 | Ep_r: 179 | Global_step: 3720
+Task: 1 | Ep: 822 | Ep_r: 178 | Global_step: 3886
+Task: 3 | Ep: 823 | Ep_r: 176 | Global_step: 3750
+Task: 1 | Ep: 824 | Ep_r: 174 | Global_step: 3889
+Task: 0 | Ep: 825 | Ep_r: 173 | Global_step: 2
+Task: 2 | Ep: 826 | Ep_r: 171 | Global_step: 3724
+Task: 3 | Ep: 827 | Ep_r: 170 | Global_step: 3758
+Task: 1 | Ep: 827 | Ep_r: 169 | Global_step: 3896
+Task: 2 | Ep: 829 | Ep_r: 167 | Global_step: 3727
+Task: 0 | Ep: 830 | Ep_r: 166 | Global_step: 7
+Task: 0 | Ep: 831 | Ep_r: 164 | Global_step: 9
+Task: 0 | Ep: 832 | Ep_r: 163 | Global_step: 11
+Task: 3 | Ep: 833 | Ep_r: 162 | Global_step: 3763
+Task: 1 | Ep: 834 | Ep_r: 160 | Global_step: 3902
+Task: 3 | Ep: 835 | Ep_r: 159 | Global_step: 3766
+Task: 0 | Ep: 836 | Ep_r: 158 | Global_step: 15
+Task: 3 | Ep: 837 | Ep_r: 156 | Global_step: 3768
+Task: 2 | Ep: 838 | Ep_r: 155 | Global_step: 3732
+Task: 1 | Ep: 839 | Ep_r: 154 | Global_step: 3910
+Task: 2 | Ep: 840 | Ep_r: 153 | Global_step: 3736
+Task: 1 | Ep: 841 | Ep_r: 151 | Global_step: 3914
+Task: 2 | Ep: 842 | Ep_r: 150 | Global_step: 3742
+Task: 0 | Ep: 843 | Ep_r: 149 | Global_step: 19
+Task: 3 | Ep: 844 | Ep_r: 148 | Global_step: 3774
+Task: 1 | Ep: 845 | Ep_r: 147 | Global_step: 3920
+Task: 0 | Ep: 846 | Ep_r: 146 | Global_step: 24
+Task: 2 | Ep: 847 | Ep_r: 145 | Global_step: 3747
+Task: 3 | Ep: 848 | Ep_r: 144 | Global_step: 3780
+Task: 0 | Ep: 849 | Ep_r: 143 | Global_step: 28
+Task: 2 | Ep: 850 | Ep_r: 141 | Global_step: 3752
+Task: 1 | Ep: 851 | Ep_r: 140 | Global_step: 3925
+Task: 0 | Ep: 852 | Ep_r: 139 | Global_step: 31
+Task: 2 | Ep: 853 | Ep_r: 138 | Global_step: 3756
+Task: 1 | Ep: 854 | Ep_r: 137 | Global_step: 3930
+Task: 0 | Ep: 855 | Ep_r: 136 | Global_step: 40
+Task: 3 | Ep: 856 | Ep_r: 136 | Global_step: 3790
+Task: 2 | Ep: 857 | Ep_r: 135 | Global_step: 3762
+Task: 1 | Ep: 858 | Ep_r: 134 | Global_step: 3936
+Task: 0 | Ep: 859 | Ep_r: 133 | Global_step: 45
+Task: 2 | Ep: 860 | Ep_r: 132 | Global_step: 3767
+Task: 1 | Ep: 861 | Ep_r: 131 | Global_step: 3939
+Task: 0 | Ep: 862 | Ep_r: 130 | Global_step: 49
+Task: 2 | Ep: 863 | Ep_r: 129 | Global_step: 3771
+Task: 3 | Ep: 864 | Ep_r: 128 | Global_step: 3799
+Task: 2 | Ep: 865 | Ep_r: 127 | Global_step: 3776
+Task: 3 | Ep: 866 | Ep_r: 126 | Global_step: 3803
+Task: 1 | Ep: 867 | Ep_r: 126 | Global_step: 3948
+Task: 0 | Ep: 868 | Ep_r: 125 | Global_step: 57
+Task: 3 | Ep: 869 | Ep_r: 124 | Global_step: 3806
+Task: 2 | Ep: 870 | Ep_r: 123 | Global_step: 3781
+Task: 0 | Ep: 871 | Ep_r: 122 | Global_step: 60
+Task: 2 | Ep: 872 | Ep_r: 121 | Global_step: 3784
+Task: 1 | Ep: 873 | Ep_r: 120 | Global_step: 3954
+Task: 3 | Ep: 874 | Ep_r: 119 | Global_step: 3812
+Task: 0 | Ep: 875 | Ep_r: 119 | Global_step: 66
+Task: 2 | Ep: 876 | Ep_r: 118 | Global_step: 3789
+Task: 3 | Ep: 877 | Ep_r: 117 | Global_step: 3817
+Task: 0 | Ep: 878 | Ep_r: 116 | Global_step: 69
+Task: 1 | Ep: 879 | Ep_r: 115 | Global_step: 3963
+Task: 2 | Ep: 880 | Ep_r: 115 | Global_step: 3793
+Task: 1 | Ep: 881 | Ep_r: 114 | Global_step: 3969
+Task: 3 | Ep: 882 | Ep_r: 113 | Global_step: 3824
+Task: 3 | Ep: 883 | Ep_r: 112 | Global_step: 3826
+Task: 2 | Ep: 884 | Ep_r: 111 | Global_step: 3798
+Task: 1 | Ep: 885 | Ep_r: 110 | Global_step: 3973
+2023-09-01 22:05:23.574103: I tensorflow/core/distributed_runtime/master.cc:239] Scanning workers for devices: 6 total workers
+Task: 0 | Ep: 886 | Ep_r: 110 | Global_step: 82
+Task: 2 | Ep: 887 | Ep_r: 110 | Global_step: 3804
+Task: 0 | Ep: 888 | Ep_r: 109 | Global_step: 85
+Task: 1 | Ep: 889 | Ep_r: 109 | Global_step: 3983
+Task: 0 | Ep: 890 | Ep_r: 108 | Global_step: 88
+Task: 2 | Ep: 891 | Ep_r: 107 | Global_step: 3811
+Task: 1 | Ep: 892 | Ep_r: 106 | Global_step: 3986
+Task: 0 | Ep: 893 | Ep_r: 105 | Global_step: 91
+Task: 1 | Ep: 894 | Ep_r: 104 | Global_step: 3988
+Task: 0 | Ep: 895 | Ep_r: 103 | Global_step: 93
+Task: 1 | Ep: 896 | Ep_r: 102 | Global_step: 3991
+Task: 0 | Ep: 897 | Ep_r: 101 | Global_step: 95
+Task: 2 | Ep: 898 | Ep_r: 101 | Global_step: 3815
+Task: 1 | Ep: 898 | Ep_r: 100 | Global_step: 3994
+Task: 1 | Ep: 900 | Ep_r: 99 | Global_step: 3996
+Task: 2 | Ep: 901 | Ep_r: 98 | Global_step: 3817
+Task: 1 | Ep: 901 | Ep_r: 97 | Global_step: 3998
+Task: 0 | Ep: 903 | Ep_r: 96 | Global_step: 99
+Task: 2 | Ep: 904 | Ep_r: 95 | Global_step: 3819
+Task: 1 | Ep: 904 | Ep_r: 94 | Global_step: 4001
+Task: 0 | Ep: 906 | Ep_r: 94 | Global_step: 103
+Task: 0 | Ep: 907 | Ep_r: 93 | Global_step: 106
+Task: 2 | Ep: 908 | Ep_r: 92 | Global_step: 3825
+Task: 1 | Ep: 909 | Ep_r: 92 | Global_step: 4005
+Task: 2 | Ep: 910 | Ep_r: 91 | Global_step: 3827
+Task: 0 | Ep: 911 | Ep_r: 90 | Global_step: 109
+Task: 1 | Ep: 912 | Ep_r: 89 | Global_step: 4008
+Task: 1 | Ep: 913 | Ep_r: 89 | Global_step: 4011
+Task: 2 | Ep: 914 | Ep_r: 88 | Global_step: 3830
+Task: 1 | Ep: 915 | Ep_r: 87 | Global_step: 4013
+Task: 0 | Ep: 916 | Ep_r: 86 | Global_step: 112
+Task: 1 | Ep: 917 | Ep_r: 86 | Global_step: 4015
+Task: 0 | Ep: 918 | Ep_r: 85 | Global_step: 115
+Task: 2 | Ep: 919 | Ep_r: 84 | Global_step: 3832
+Task: 3 | Ep: 920 | Ep_r: 84 | Global_step: 2
+Task: 1 | Ep: 920 | Ep_r: 83 | Global_step: 4018
+Task: 0 | Ep: 922 | Ep_r: 82 | Global_step: 117
+Task: 2 | Ep: 923 | Ep_r: 82 | Global_step: 3835
+Task: 3 | Ep: 924 | Ep_r: 81 | Global_step: 9
+Task: 1 | Ep: 925 | Ep_r: 81 | Global_step: 4021
+Task: 0 | Ep: 926 | Ep_r: 80 | Global_step: 121
+Task: 3 | Ep: 927 | Ep_r: 80 | Global_step: 12
+Task: 2 | Ep: 928 | Ep_r: 79 | Global_step: 3839
+Task: 1 | Ep: 929 | Ep_r: 79 | Global_step: 4027
+Task: 0 | Ep: 930 | Ep_r: 78 | Global_step: 125
+Task: 2 | Ep: 931 | Ep_r: 77 | Global_step: 3843
+Task: 3 | Ep: 932 | Ep_r: 77 | Global_step: 17
+Task: 1 | Ep: 933 | Ep_r: 77 | Global_step: 4032
+Task: 1 | Ep: 934 | Ep_r: 75 | Global_step: 4035
+Task: 3 | Ep: 934 | Ep_r: 76 | Global_step: 20
+Task: 1 | Ep: 936 | Ep_r: 75 | Global_step: 4037
+Task: 0 | Ep: 937 | Ep_r: 75 | Global_step: 132
+Task: 3 | Ep: 938 | Ep_r: 74 | Global_step: 23
+Task: 3 | Ep: 939 | Ep_r: 73 | Global_step: 25
+Task: 1 | Ep: 940 | Ep_r: 73 | Global_step: 4042
+Task: 2 | Ep: 941 | Ep_r: 73 | Global_step: 3850
+Task: 3 | Ep: 942 | Ep_r: 72 | Global_step: 31
+Task: 2 | Ep: 943 | Ep_r: 72 | Global_step: 3853
+Task: 2 | Ep: 944 | Ep_r: 71 | Global_step: 3856
+Task: 1 | Ep: 945 | Ep_r: 71 | Global_step: 4047
+Task: 3 | Ep: 946 | Ep_r: 70 | Global_step: 34
+Task: 0 | Ep: 947 | Ep_r: 70 | Global_step: 140
+Task: 3 | Ep: 948 | Ep_r: 70 | Global_step: 36
+Task: 2 | Ep: 948 | Ep_r: 69 | Global_step: 3860
+Task: 0 | Ep: 950 | Ep_r: 69 | Global_step: 144
+Task: 2 | Ep: 951 | Ep_r: 68 | Global_step: 3863
+Task: 1 | Ep: 952 | Ep_r: 68 | Global_step: 4052
+Task: 3 | Ep: 953 | Ep_r: 67 | Global_step: 39
+Task: 0 | Ep: 954 | Ep_r: 67 | Global_step: 150
+Task: 1 | Ep: 955 | Ep_r: 67 | Global_step: 4055
+Task: 3 | Ep: 956 | Ep_r: 66 | Global_step: 43
+Task: 2 | Ep: 957 | Ep_r: 66 | Global_step: 3868
+Task: 0 | Ep: 958 | Ep_r: 65 | Global_step: 153
+Task: 3 | Ep: 959 | Ep_r: 65 | Global_step: 46
+Task: 1 | Ep: 960 | Ep_r: 64 | Global_step: 4058
+Task: 3 | Ep: 961 | Ep_r: 64 | Global_step: 49
+Task: 3 | Ep: 962 | Ep_r: 63 | Global_step: 51
+Task: 2 | Ep: 963 | Ep_r: 63 | Global_step: 3874
+Task: 1 | Ep: 964 | Ep_r: 63 | Global_step: 4064
+Task: 3 | Ep: 965 | Ep_r: 63 | Global_step: 55
+Task: 2 | Ep: 966 | Ep_r: 62 | Global_step: 3878
+Task: 0 | Ep: 967 | Ep_r: 62 | Global_step: 163
+Task: 2 | Ep: 968 | Ep_r: 62 | Global_step: 3881
+Task: 3 | Ep: 969 | Ep_r: 61 | Global_step: 58
+Task: 1 | Ep: 970 | Ep_r: 61 | Global_step: 4067
+Task: 0 | Ep: 971 | Ep_r: 61 | Global_step: 166
+Task: 3 | Ep: 972 | Ep_r: 60 | Global_step: 61
+Task: 2 | Ep: 973 | Ep_r: 60 | Global_step: 3886
+Task: 1 | Ep: 974 | Ep_r: 60 | Global_step: 4071
+Task: 3 | Ep: 975 | Ep_r: 59 | Global_step: 64
+Task: 2 | Ep: 976 | Ep_r: 59 | Global_step: 3889
+Task: 3 | Ep: 977 | Ep_r: 58 | Global_step: 67
+Task: 0 | Ep: 978 | Ep_r: 58 | Global_step: 172
+Task: 1 | Ep: 979 | Ep_r: 58 | Global_step: 4076
+Task: 3 | Ep: 980 | Ep_r: 57 | Global_step: 70
+Task: 1 | Ep: 981 | Ep_r: 57 | Global_step: 4080
+Task: 2 | Ep: 982 | Ep_r: 57 | Global_step: 3893
+Task: 3 | Ep: 983 | Ep_r: 57 | Global_step: 74
+Task: 0 | Ep: 984 | Ep_r: 56 | Global_step: 179
+Task: 2 | Ep: 985 | Ep_r: 56 | Global_step: 3898
+Task: 0 | Ep: 986 | Ep_r: 56 | Global_step: 183
+Task: 3 | Ep: 987 | Ep_r: 56 | Global_step: 79
+Task: 1 | Ep: 988 | Ep_r: 56 | Global_step: 4088
+Task: 2 | Ep: 989 | Ep_r: 55 | Global_step: 3902
+Task: 3 | Ep: 990 | Ep_r: 55 | Global_step: 82
+Task: 1 | Ep: 991 | Ep_r: 55 | Global_step: 4092
+Task: 2 | Ep: 992 | Ep_r: 55 | Global_step: 3907
+Task: 3 | Ep: 993 | Ep_r: 54 | Global_step: 87
+Task: 0 | Ep: 994 | Ep_r: 54 | Global_step: 188
+Task: 1 | Ep: 995 | Ep_r: 54 | Global_step: 4099
+Task: 3 | Ep: 995 | Ep_r: 54 | Global_step: 91
+Task: 2 | Ep: 997 | Ep_r: 54 | Global_step: 3914
+Task: 0 | Ep: 998 | Ep_r: 54 | Global_step: 193
+Task: 2 | Ep: 999 | Ep_r: 53 | Global_step: 3917
+Worker Done:  2 81.07390689849854
+Task: 1 | Ep: 1000 | Ep_r: 53 | Global_step: 4104
+Worker Done:  1 81.1297709941864
+Task: 0 | Ep: 1001 | Ep_r: 53 | Global_step: 200
+Worker Done:  0 81.27097702026367
+Task: 3 | Ep: 1002 | Ep_r: 54 | Global_step: 103
+Worker Done:  3 81.3663649559021
