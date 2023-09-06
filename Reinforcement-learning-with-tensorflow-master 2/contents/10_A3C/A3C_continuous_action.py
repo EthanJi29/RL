@@ -12,7 +12,8 @@ gym 0.10.5
 
 import multiprocessing
 import threading
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
 import numpy as np
 import gym
 import os
